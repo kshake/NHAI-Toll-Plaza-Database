@@ -1,0 +1,3901 @@
+[
+    {
+      "NH_No": "16",
+      "Section": "Vishakhapatnam - Ankapalli [Km 2.837 to &Km 395.870 to Km358.00(New Chainage From Km 700.544 to Km 740.255)]",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 728.055 ",
+      "Toll_Plaza_Name": " Aganampudi"
+    },
+    {
+      "NH_No": "7 (new 44)",
+      "Section": "Hyderabad  Bangalore (km 211.000 to km 462.164)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 250.700 ",
+      "Toll_Plaza_Name": " Amakathadu"
+    },
+    {
+      "NH_No": "221",
+      "Section": "Imbrahimpatnam to AP Telangana Border",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "35.800 ",
+      "Toll_Plaza_Name": " Badava"
+    },
+    {
+      "NH_No": "NH 67",
+      "Section": "Km 589.000 to Km 641.000",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 604.450 ",
+      "Toll_Plaza_Name": " Basapuram"
+    },
+    {
+      "NH_No": "5",
+      "Section": "Icchapuram - Puintola (Km 477.054 to Km 419.600)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 473.632 ",
+      "Toll_Plaza_Name": " Bellupada"
+    },
+    {
+      "NH_No": "5",
+      "Section": "Chilkaluripet - Nellore (Km 1182.802 - Km 1366.547)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 1200.000 ",
+      "Toll_Plaza_Name": " Bolapalli"
+    },
+    {
+      "NH_No": "71",
+      "Section": "Telangana Border to Erpedu",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "348.720 ",
+      "Toll_Plaza_Name": " Brahmanapalli"
+    },
+    {
+      "NH_No": "NH 67",
+      "Section": "Km 695.000 to Km 741.950",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 722.450 ",
+      "Toll_Plaza_Name": " Buchireddypalem"
+    },
+    {
+      "NH_No": "5",
+      "Section": "Tada - Nellore",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 124.500 ",
+      "Toll_Plaza_Name": " Budhanam"
+    },
+    {
+      "NH_No": "40",
+      "Section": "Kadapa - Kurnool(Km 167.750 - km 356.502)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 228.350 ",
+      "Toll_Plaza_Name": " Chagalmarri"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Srikakulam - Champavati ( km 97.00 to Km 49.00(New Chainage From Km 606.204 to Km 654.204))",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 616.704 ",
+      "Toll_Plaza_Name": " Chilakapalem"
+    },
+    {
+      "NH_No": "565",
+      "Section": "Penchalkona to yerpedu",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "500.150 ",
+      "Toll_Plaza_Name": " Chintalapalem"
+    },
+    {
+      "NH_No": "NH  65",
+      "Section": "Vijayawada  Machilipatnam section of NH65",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "km. 18 ",
+      "Toll_Plaza_Name": " Davuluru"
+    },
+    {
+      "NH_No": "NH 67",
+      "Section": "Km 641.000 to Km 695.000",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 680.100 ",
+      "Toll_Plaza_Name": " DC PALLI"
+    },
+    {
+      "NH_No": "18",
+      "Section": "PILERU RAYACHOTI",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 69.015 ",
+      "Toll_Plaza_Name": " Durgamvaripalli"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Diwancheruvu - Siddhantham(Km 901.753 to Km 950.283)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 946.300 ",
+      "Toll_Plaza_Name": " Eethakota"
+    },
+    {
+      "NH_No": "216",
+      "Section": "Kathipudi Kakinada",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "KM 15.00 ",
+      "Toll_Plaza_Name": " Gollaprolu"
+    },
+    {
+      "NH_No": "NH167",
+      "Section": "From Km 70.000 to Km 125.150 (Adoni to Madhavaram via Mantralayam section)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km. 101.650 ",
+      "Toll_Plaza_Name": " Halaharvi"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Gundugolanu - Vijayawada",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 1050.794 ",
+      "Toll_Plaza_Name": " Kalaparru"
+    },
+    {
+      "NH_No": "44 and  7",
+      "Section": "Karidikonda - Marur",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 310.200 ",
+      "Toll_Plaza_Name": " Kasepalli"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Vijayawada - Chilakaluripet",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 416.800 ",
+      "Toll_Plaza_Name": " Kaza"
+    },
+    {
+      "NH_No": "9",
+      "Section": "Nandigama - Vijayawada",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 231.900 ",
+      "Toll_Plaza_Name": " Keesara"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Tuni - Diwancheruvu [Km 272.000 to Km 200.000 (New Chainage From Km 901.753 to 830.525)]",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 865.553 ",
+      "Toll_Plaza_Name": " Krishnavaram"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Icchapuram - Nandigaon (Km 226.15 to Km160.00(New Chainage Km 477.054 to Km 543.204))",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 530.404 ",
+      "Toll_Plaza_Name": " Laxmipuram"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Nandigama - Srikakulam ( Km 160.00 to Km 97.00(New Chainage Km 543.204 to Km 606.204))",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 589.554 ",
+      "Toll_Plaza_Name": " Madapam"
+    },
+    {
+      "NH_No": "5",
+      "Section": "Vishakhapatnam Port Connectivity Project",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 9.158 ",
+      "Toll_Plaza_Name": " Main Toll (Panchvati)"
+    },
+    {
+      "NH_No": "7(new 44)",
+      "Section": "Hyderabad - Bangalore",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 376.075 ",
+      "Toll_Plaza_Name": " Marur"
+    },
+    {
+      "NH_No": "565",
+      "Section": "Markapuram to Vaggampalle",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "217.050 ",
+      "Toll_Plaza_Name": " Mekalavaripalli"
+    },
+    {
+      "NH_No": "NH40 (Old NH18)",
+      "Section": "46 laning of Kadapa  Kurnool section from existing Km.167.750 to Km.356.502",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "349.700 ",
+      "Toll_Plaza_Name": " Nannur"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Champavati/ Kopperla - Visakhapatnam [km 49.00 to Km 2.837 (New Chainage From Km 700.544 to Km 654.204)]",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 656.704 ",
+      "Toll_Plaza_Name": " Nathavalasa/ Vizianagaram"
+    },
+    {
+      "NH_No": "40",
+      "Section": "Kadapa - Kurnool(Km 167.750 - km 356.502)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 168.300 ",
+      "Toll_Plaza_Name": " Palempalli"
+    },
+    {
+      "NH_No": "65 (Old 9)",
+      "Section": "Pune - Hyderabad",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 515.200 ",
+      "Toll_Plaza_Name": " Patancheru (Prograssive Construction Toll) (MoRTH)"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Gundugolanu - Vijayawada",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 1072.191 ",
+      "Toll_Plaza_Name": " Pottipadu"
+    },
+    {
+      "NH_No": "565",
+      "Section": "Penchalkona to yerpedu",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "443.800 ",
+      "Toll_Plaza_Name": " Rapur"
+    },
+    {
+      "NH_No": "565",
+      "Section": "Markapuram to Vaggampalle",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "285.100 ",
+      "Toll_Plaza_Name": " Raviguntapalli"
+    },
+    {
+      "NH_No": "5",
+      "Section": "Vishakhapatnam Port Connectivity Project",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 2.262 ",
+      "Toll_Plaza_Name": " Secondary Toll (Gosthani Gate /Sheela Nagar)"
+    },
+    {
+      "NH_No": "5",
+      "Section": "Tada - Nellore",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 86.000 ",
+      "Toll_Plaza_Name": " Sullurpet"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Chilkaluripet - Nellore (Km 1182.802 - Km 1366.547)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 1326.000 ",
+      "Toll_Plaza_Name": " Sunambatti (Musunuru)"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Chilkaluripet - Nellore (Km 1182.802 - Km 1366.547)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 1264.000 ",
+      "Toll_Plaza_Name": " Tanguturu"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Siddhantham - Gundugolanu( Km 950.283 to Km 1022.494)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 999.600 ",
+      "Toll_Plaza_Name": " Unguturu"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Ankapalli  Tuni Km 358.00 to Km 272.00(New Chainage From Km 830.525 to Km 741.255)",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 795.498 ",
+      "Toll_Plaza_Name": " Vempadu"
+    },
+    {
+      "NH_No": "5 (Old 16 )",
+      "Section": "Tada - Nellore",
+      "State": "Andhra Pradesh",
+      "Toll_Plaza_Location": "Km 155.000 ",
+      "Toll_Plaza_Name": " Venkatachalam (Old Nellore)"
+    },
+    {
+      "NH_No": "36",
+      "Section": "Nagao-Daboka-Udauli",
+      "State": "Assam",
+      "Toll_Plaza_Location": "Km 15.652 ",
+      "Toll_Plaza_Name": " Daboka"
+    },
+    {
+      "NH_No": "31",
+      "Section": "Rakhaladobi - Kohora Section ( Km 962.200 to Km 1023.900)",
+      "State": "Assam",
+      "Toll_Plaza_Location": "Km 971.200 ",
+      "Toll_Plaza_Name": " Dahalapara"
+    },
+    {
+      "NH_No": "31",
+      "Section": "Gangadhar Bridge (Km 837.00 to 837.481)",
+      "State": "Assam",
+      "Toll_Plaza_Location": "Km 841.000 ",
+      "Toll_Plaza_Name": " Gangadhar Bridge (MoRTH)"
+    },
+    {
+      "NH_No": "37A",
+      "Section": "Kalia Bhomora Bridge (Km 9.280 to 12.295 Km)",
+      "State": "Assam",
+      "Toll_Plaza_Location": "Km 7.100 ",
+      "Toll_Plaza_Name": " Kalia Bhomora Bridge (MoRTH)"
+    },
+    {
+      "NH_No": "37",
+      "Section": "Nagao-Daboka-Udauli",
+      "State": "Assam",
+      "Toll_Plaza_Location": "Km 179.600 ",
+      "Toll_Plaza_Name": " Nazira Khat"
+    },
+    {
+      "NH_No": "NH27 (New)NH31C (Old)",
+      "Section": "Ch. 30.000 to Ch. 32.000 Km.",
+      "State": "Assam",
+      "Toll_Plaza_Location": "Patgaon District Kokrajhar ",
+      "Toll_Plaza_Name": " Patgaon"
+    },
+    {
+      "NH_No": "37",
+      "Section": "Nagao-Daboka-Udauli",
+      "State": "Assam",
+      "Toll_Plaza_Location": "Km 254.514 ",
+      "Toll_Plaza_Name": " Raha(Saragaon)"
+    },
+    {
+      "NH_No": "57",
+      "Section": "Phulparash - Forbesganj",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 150.390 ",
+      "Toll_Plaza_Name": " Asanpur"
+    },
+    {
+      "NH_No": "80",
+      "Section": "Mokama - Munger (Km 1.43 - Km 70.00)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 23.500 ",
+      "Toll_Plaza_Name": " Balgudar"
+    },
+    {
+      "NH_No": "31",
+      "Section": "Purnea - Dalkola (Km 410.700 - Km 447.000)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 416.000 ",
+      "Toll_Plaza_Name": " Barsoni"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Varanasi - Aurangabad Section",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 800.430 ",
+      "Toll_Plaza_Name": " Daffi"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Patna - Bakhtiyarpur",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 194.00 ",
+      "Toll_Plaza_Name": " Deederganj"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Muzaffarpur - Barsoni (km 519.600 - km 627.000)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 602.640 ",
+      "Toll_Plaza_Name": " Govindpur"
+    },
+    {
+      "NH_No": "NH27(Old NH57)",
+      "Section": "Forbesganj - Purnea",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 244.860 ",
+      "Toll_Plaza_Name": " Hariabara"
+    },
+    {
+      "NH_No": "31",
+      "Section": "Khagaria - Purnea (Km 270.000 - Km 410.000)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 333.150 ",
+      "Toll_Plaza_Name": " Kharik"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Muzaffarpur - Barsoni (km 519.600 - km 627.000)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 534.669 ",
+      "Toll_Plaza_Name": " Mahanth Maniyari"
+    },
+    {
+      "NH_No": "57",
+      "Section": "Muzaffarpur - Darbhanga - Purnea",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 26.200 ",
+      "Toll_Plaza_Name": " Maithi"
+    },
+    {
+      "NH_No": "31",
+      "Section": "Khagaria - Purnea (Km 270.000 - Km 410.000)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 397.885 ",
+      "Toll_Plaza_Name": " Maranga"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Varanasi - Aurangabad",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 860.000 ",
+      "Toll_Plaza_Name": " Mohania"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Kotwa - Mehsi - Muzaffarpur (Km 440.000 -  Km 520.000)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 468.700 ",
+      "Toll_Plaza_Name": " Parsoni Khem"
+    },
+    {
+      "NH_No": "Chhapra Rewaghat Muzaffarpur",
+      "Section": "Chhapra Rewaghat Muzaffarpur",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "54.350 ",
+      "Toll_Plaza_Name": " Pokhraira"
+    },
+    {
+      "NH_No": "57",
+      "Section": "Darbhanga - Kosi Bund",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 88.000 ",
+      "Toll_Plaza_Name": " Raje(Old Naraur)"
+    },
+    {
+      "NH_No": "77",
+      "Section": "Muzzaffarpur - Sonbarsa (Km 2.800 -  Km 89.000)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 26.090 ",
+      "Toll_Plaza_Name": " Runni"
+    },
+    {
+      "NH_No": "77",
+      "Section": "Hajipur - Muzaffarpur",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 12.687 ",
+      "Toll_Plaza_Name": " Saidpur Patedha"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Varanasi - Aurangabad",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 907.100 ",
+      "Toll_Plaza_Name": " Sasaram"
+    },
+    {
+      "NH_No": "19",
+      "Section": "Aurangabad - Barachatti(Km 180.00 to Km 240.00)",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "Km 200.100 ",
+      "Toll_Plaza_Name": " Saukala"
+    },
+    {
+      "NH_No": "Old NH1 02 New722",
+      "Section": "Chhapra Rewaghat Muzaffarpur",
+      "State": "Bihar",
+      "Toll_Plaza_Location": "25.900 ",
+      "Toll_Plaza_Name": " Sonho"
+    },
+    {
+      "NH_No": "21 (Old 3)",
+      "Section": "Jia Bridge",
+      "State": "Chandigarh",
+      "Toll_Plaza_Location": "Km 262.200 ",
+      "Toll_Plaza_Name": " Jia Bridge (MoRTH)"
+    },
+    {
+      "NH_No": "Old43 (New NH30)",
+      "Section": "DahikongaJagdalpur Section from Km 241.000 to Km 298.000",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "284.420 ",
+      "Toll_Plaza_Name": " Badayiguda"
+    },
+    {
+      "NH_No": "6 (Old 53 )",
+      "Section": "Chhattisgarh/Orissa Border - Aurang Section",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 123.206 ",
+      "Toll_Plaza_Name": " Chuipali"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Chhattisgarh/Orissa Border - Aurang Section",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 182.636 ",
+      "Toll_Plaza_Name": " Dhank"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Durg Bypass - Chhattisgarh/Maharashtra Border",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 312.780 ",
+      "Toll_Plaza_Name": " Durg Bypass (Dhamdanaka)"
+    },
+    {
+      "NH_No": "Old43 (New NH30)",
+      "Section": "DhamtariKanker Section from 81.500 to 130.000",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "95.000 ",
+      "Toll_Plaza_Name": " Jagtara"
+    },
+    {
+      "NH_No": "6 (Old 53)",
+      "Section": "Raipur - Durg",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 285.400 ",
+      "Toll_Plaza_Name": " Kharun (MoRTH)"
+    },
+    {
+      "NH_No": "6 (Old 53)",
+      "Section": "Raipur - Durg Four lane (Km 281.000 to Km 307.600)",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 307.600 ",
+      "Toll_Plaza_Name": " Kosa Nala (MoRTH)"
+    },
+    {
+      "NH_No": "53",
+      "Section": "Raipur - Aurang",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 242.800 ",
+      "Toll_Plaza_Name": " Lakholi"
+    },
+    {
+      "NH_No": "Old43 (New NH30)",
+      "Section": "BedmaDahikonga Section from Km.180.000 to Km.241.000",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "216.400 ",
+      "Toll_Plaza_Name": " Mashora"
+    },
+    {
+      "NH_No": "200(Old 130)",
+      "Section": "H.L. Bridge at Nandghat",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 65.800 ",
+      "Toll_Plaza_Name": " Nandghat Bridge (MoRTH)"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Raipur - Aurang",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 276.135 ",
+      "Toll_Plaza_Name": " Sundar Nagar"
+    },
+    {
+      "NH_No": "6",
+      "Section": "End of Durg Bypass  Chhattisgarh  Maharashtra Border",
+      "State": "Chhattisgarh",
+      "Toll_Plaza_Location": "Km 331.865 ",
+      "Toll_Plaza_Name": " Thakurtola (End of Durg Bypass)"
+    },
+    {
+      "NH_No": "1",
+      "Section": "Delhi Haryana Kundli Border to Panipat",
+      "State": "Delhi",
+      "Toll_Plaza_Location": "Km 53.600 ",
+      "Toll_Plaza_Name": " Bhagan"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Delhi - Gurgaon",
+      "State": "Delhi",
+      "Toll_Plaza_Location": "Km 19.100 ",
+      "Toll_Plaza_Name": " IGI Airport"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Delhi - Gurgaon",
+      "State": "Delhi",
+      "Toll_Plaza_Location": "Km 42.000 ",
+      "Toll_Plaza_Name": " Kherki Daula"
+    },
+    {
+      "NH_No": "NE-1",
+      "Section": "Ahmedabad Vadodra Expressways 1 & 2",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 2.600 ",
+      "Toll_Plaza_Name": " Ahmedabad"
+    },
+    {
+      "NH_No": "NE-1",
+      "Section": "Ahmedabad Vadodra Expressways 1 & 2",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 43.855 ",
+      "Toll_Plaza_Name": " Anand"
+    },
+    {
+      "NH_No": "8A (Old 47)",
+      "Section": "N.H.8A Km 61.4 to Km 182.4",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 61.400 ",
+      "Toll_Plaza_Name": " Bagodara (MoRTH)"
+    },
+    {
+      "NH_No": "8A (Old 47 )",
+      "Section": "NH 8A Km 61.4 to Km 182.4",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 182.400 ",
+      "Toll_Plaza_Name": " Bamanbore (MoRTH)"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Surat  Dahisar",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 356.200 ",
+      "Toll_Plaza_Name": " Bhagwada"
+    },
+    {
+      "NH_No": "14",
+      "Section": "Palanpur - Radhanpur",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 439.000 ",
+      "Toll_Plaza_Name": " Bhalgam (Belgaum)"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Vadodara - Bharuch",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 157.750 ",
+      "Toll_Plaza_Name": " BharthanKarjan"
+    },
+    {
+      "NH_No": "27",
+      "Section": "Gondal - Rajkot",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 156.800 ",
+      "Toll_Plaza_Name": " Bharudi"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Gujrat/ Maharashtra Border - Surat Hazira Port",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 89.860 ",
+      "Toll_Plaza_Name": " Bhatia"
+    },
+    {
+      "NH_No": "59",
+      "Section": "Godhra - Gujarat / MP Border",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 146.400 ",
+      "Toll_Plaza_Name": " Bhatwada (Godhra)"
+    },
+    {
+      "NH_No": "14",
+      "Section": "Palanpur - Radhanpur",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 403.000 ",
+      "Toll_Plaza_Name": " Bhiladi"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Surat  Dahisar",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 297.300 ",
+      "Toll_Plaza_Name": " Boriach"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Surat  Dahisar",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 420.340 ",
+      "Toll_Plaza_Name": " Charoti"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Bharuch - Surat",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 245.650 ",
+      "Toll_Plaza_Name": " Choryasi"
+    },
+    {
+      "NH_No": "8D",
+      "Section": "Jetpur-Somnath (Km 0.000 to Km127.600)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 108.980 ",
+      "Toll_Plaza_Name": " Dari"
+    },
+    {
+      "NH_No": "27 (Old 8B )",
+      "Section": "Bhiladi  Jetpur (Km 52.5 to Km 117.6)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 82.215 NH8B in Gujarat ",
+      "Toll_Plaza_Name": " Dhumiyani"
+    },
+    {
+      "NH_No": "151 (Old 8D )",
+      "Section": "Jetpur Somnath(Km 0.000 to 127.600 )",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 51.250 ",
+      "Toll_Plaza_Name": " Gadoi"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Himatnagar  Chiloda (Km 443.00 to Km 495.00)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 472.035 ",
+      "Toll_Plaza_Name": " Kathpur"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Surat  Dahisar",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 470.000 ",
+      "Toll_Plaza_Name": " Khaniwade"
+    },
+    {
+      "NH_No": "14",
+      "Section": "Palanpur/ Khemana -  AbuRoad (Km 340.00 to Km 295.00)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 339.000 ",
+      "Toll_Plaza_Name": " Khemana"
+    },
+    {
+      "NH_No": "15",
+      "Section": "Palanpur - Radhanpur",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 226.00 ",
+      "Toll_Plaza_Name": " Makhel"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Gujrat/ Maharashtra Border - Surat Hazira Port",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 28.590 ",
+      "Toll_Plaza_Name": " Mandal (Vyara)"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Km. 192.000 to Km. 198.000",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 195.800 ",
+      "Toll_Plaza_Name": " Mandava"
+    },
+    {
+      "NH_No": "41",
+      "Section": "Kandla - Mundra",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 44.500 ",
+      "Toll_Plaza_Name": " Mokha"
+    },
+    {
+      "NH_No": "NE-1",
+      "Section": "Ahmedabad Vadodra Expressways 1 & 2",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 3.800 ",
+      "Toll_Plaza_Name": " Nadiad"
+    },
+    {
+      "NH_No": "8B",
+      "Section": "Gondal - Rajkot",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 120.700 ",
+      "Toll_Plaza_Name": " Pithadiya"
+    },
+    {
+      "NH_No": "47",
+      "Section": "Ahmedabad to Godhra (Km 4.2 - Km 122.42 of NH - 59)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "km 37.300 ",
+      "Toll_Plaza_Name": " Pithai"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Ahmedabad - Vadodara",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 43.005 ",
+      "Toll_Plaza_Name": " Radhvanaj (Kheda)"
+    },
+    {
+      "NH_No": "NE-1",
+      "Section": "Ahmedabad Vadodra Expressways 1 & 2",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 86.000  ",
+      "Toll_Plaza_Name": " Ring Raod"
+    },
+    {
+      "NH_No": "41",
+      "Section": "Samakhiyali - Gandhidham",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 308.600 ",
+      "Toll_Plaza_Name": " Samakhiyali"
+    },
+    {
+      "NH_No": "27",
+      "Section": "Garamore - Samakhiyali (Km 254.000 to Km 306.000)( New Chaianage Km 254.537 to Km 307.034)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 286.655 ",
+      "Toll_Plaza_Name": " Surajbari"
+    },
+    {
+      "NH_No": "14",
+      "Section": "AbuRoad - Palanpur/Khemana (Km 264.00 to Km 295.00)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 270.250 ",
+      "Toll_Plaza_Name": " Undavariya/ Sirohi"
+    },
+    {
+      "NH_No": "NE-1",
+      "Section": "Ahmedabad Vadodra Expressways 1 & 2",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 58.616 ",
+      "Toll_Plaza_Name": " Vadodra"
+    },
+    {
+      "NH_No": "NH8A in Gujarat",
+      "Section": "Garamore  Bamanbore (Km 182.60 to Km 254.00)Bamanbore Garamore Section   ( Kms. 182.600 to  Kms 254.537)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 213.100 NH8A in Gujarat ",
+      "Toll_Plaza_Name": " Vaghasia"
+    },
+    {
+      "NH_No": "8B",
+      "Section": "Porbander  Bhiladi (Km 1.960 to Km 52.500)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 10.755 NH8B in Gujarat ",
+      "Toll_Plaza_Name": " Vanana"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Ratanpur - Himatnagar (Km 388.180 to Km 443.00)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 415.00 ",
+      "Toll_Plaza_Name": " Vantada"
+    },
+    {
+      "NH_No": "15",
+      "Section": "Palanpur - Radhanpur",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 160.000 ",
+      "Toll_Plaza_Name": " Varahi"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Ahmedabad - Vadodara",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 92.000 ",
+      "Toll_Plaza_Name": " Vasad"
+    },
+    {
+      "NH_No": "47",
+      "Section": "Ahmedabad - Godhra (Km 4.2 - Km 122.42 of NH - 59)",
+      "State": "Gujarat",
+      "Toll_Plaza_Location": "Km 110.436 ",
+      "Toll_Plaza_Name": " Vavadikhurd"
+    },
+    {
+      "NH_No": "52 (Old 65)",
+      "Section": "Kaithal to Haryana Rajasthan Border",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "87.000 ",
+      "Toll_Plaza_Name": " Badopatti"
+    },
+    {
+      "NH_No": "NH 9",
+      "Section": "Hisar Dabwali Pkg II",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "241.920 Km ",
+      "Toll_Plaza_Name": " Bhavdeen"
+    },
+    {
+      "NH_No": "52 (Old 65)",
+      "Section": "Kaithal to Haryana Rajasthan Border",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "135.900 ",
+      "Toll_Plaza_Name": " Chaudhriwas"
+    },
+    {
+      "NH_No": "71A",
+      "Section": "Rohtak - Panipat",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 73.450 ",
+      "Toll_Plaza_Name": " Dahar"
+    },
+    {
+      "NH_No": "71",
+      "Section": "Rohtak - Bawal",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 370.420 ",
+      "Toll_Plaza_Name": " Dighal"
+    },
+    {
+      "NH_No": "71",
+      "Section": "Rohtak - Bawal",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 430.000 ",
+      "Toll_Plaza_Name": " Gangaycha Jatt"
+    },
+    {
+      "NH_No": "NH44(Old NH 01)",
+      "Section": "Panipat  Ambala",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 111.483 ",
+      "Toll_Plaza_Name": " Gharaunda (Karnal)"
+    },
+    {
+      "NH_No": "NH10",
+      "Section": "43.925 km",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km. 302.250 ",
+      "Toll_Plaza_Name": " Khuian Malkan"
+    },
+    {
+      "NH_No": "NH44(Old NH 01)",
+      "Section": "Panipat - Jalandhar",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 328.050 ",
+      "Toll_Plaza_Name": " Ladowal"
+    },
+    {
+      "NH_No": "9 (Old 10)",
+      "Section": "Hisar to Dabwali",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "184.035 ",
+      "Toll_Plaza_Name": " Landhari"
+    },
+    {
+      "NH_No": "10",
+      "Section": "Rohtak - Hisar (Km 87.00 to Km 170.00)",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 99.835 ",
+      "Toll_Plaza_Name": " Madina Korsan"
+    },
+    {
+      "NH_No": "71A",
+      "Section": "Rohtak - Panipat",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 14.600 ",
+      "Toll_Plaza_Name": " Makrauli Kalan"
+    },
+    {
+      "NH_No": "52 (Old 65)",
+      "Section": "Kaithal to Haryana Rajasthan Border",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "36.776 ",
+      "Toll_Plaza_Name": " Narwana"
+    },
+    {
+      "NH_No": "NH44(Old NH 01)",
+      "Section": "Panipat Elevated Highway (Km 86.000 to Km 96.000)",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 94.800 ",
+      "Toll_Plaza_Name": " Panipat Elevated"
+    },
+    {
+      "NH_No": "10",
+      "Section": "Rohtak - Hisar (Km 87.00 to Km 170.00)",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 161.500 ",
+      "Toll_Plaza_Name": " Ramayana"
+    },
+    {
+      "NH_No": "10",
+      "Section": "Delhi-Haryan -Rohtak- Hisar",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 52.460 ",
+      "Toll_Plaza_Name": " Rohad"
+    },
+    {
+      "NH_No": "NH44(Old NH 01)",
+      "Section": "Panipat  Jalandhar",
+      "State": "Haryana",
+      "Toll_Plaza_Location": "Km 211.805 ",
+      "Toll_Plaza_Name": " Sambhu(Ghaggar)"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Jammu Bypass - Udhampur (Km 15.000 to Km 67.000)",
+      "State": "Jammu and Kashmir",
+      "Toll_Plaza_Location": "Km 22.600 ",
+      "Toll_Plaza_Name": " Bann"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Jammu - Pathankot",
+      "State": "Jammu and Kashmir",
+      "Toll_Plaza_Location": "Km 16.400 ",
+      "Toll_Plaza_Name": " Lakhanpur/ Rajbagh"
+    },
+    {
+      "NH_No": "1A",
+      "Section": "Chenani - Nashri",
+      "State": "Jammu and Kashmir",
+      "Toll_Plaza_Location": "Km 90.176 ",
+      "Toll_Plaza_Name": " Mada"
+    },
+    {
+      "NH_No": "1A",
+      "Section": "Chenani - Nashri",
+      "State": "Jammu and Kashmir",
+      "Toll_Plaza_Location": "99.800 ",
+      "Toll_Plaza_Name": " Nashri"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Samba - Kunjwani",
+      "State": "Jammu and Kashmir",
+      "Toll_Plaza_Location": "Km 88.300 ",
+      "Toll_Plaza_Name": " Thandikhui"
+    },
+    {
+      "NH_No": "19",
+      "Section": "Gorhar - Barwa Adda (Km 320.00 - Km 398.750)",
+      "State": "Jharkhand",
+      "Toll_Plaza_Location": "Km 346.100 ",
+      "Toll_Plaza_Name": " Ghanghri"
+    },
+    {
+      "NH_No": "33",
+      "Section": "Hazaribagh - Ranchi (Km 40.500 - Km 114.000)",
+      "State": "Jharkhand",
+      "Toll_Plaza_Location": "Km 98.930 ",
+      "Toll_Plaza_Name": " Pundag"
+    },
+    {
+      "NH_No": "19",
+      "Section": "Barachetti - Gorhar (Km 240.00 - Km 320.00)",
+      "State": "Jharkhand",
+      "Toll_Plaza_Location": "Km 279.425 ",
+      "Toll_Plaza_Name": " Rasoiya Dhamna"
+    },
+    {
+      "NH_No": "23",
+      "Section": "Chas Ramgarh Section",
+      "State": "Jharkhand",
+      "Toll_Plaza_Location": "Km 53.740 ",
+      "Toll_Plaza_Name": " Sosokhurd"
+    },
+    {
+      "NH_No": "23",
+      "Section": "Chas Ramgarh Section",
+      "State": "Jharkhand",
+      "Toll_Plaza_Location": "Km 16.770 ",
+      "Toll_Plaza_Name": " Tand Balidih"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Silk Board Junction - Hosur",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 32.700 ",
+      "Toll_Plaza_Name": " Attibele (BETL)"
+    },
+    {
+      "NH_No": "7",
+      "Section": "AP/ Karnataka Border - Devanhalli (Km 462.164 to Km 533.619)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 464.774 ",
+      "Toll_Plaza_Name": " Bagepalli"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Gabbur - Devgiri (Km 404.000 To Km 340.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 352.550 ",
+      "Toll_Plaza_Name": " Bankapur"
+    },
+    {
+      "NH_No": "NH66 old NH17",
+      "Section": "Km. 93.700 to Km. 283.300",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "131.200 ",
+      "Toll_Plaza_Name": " Belekeri"
+    },
+    {
+      "NH_No": "73",
+      "Section": "B.C.Road - Padil & Padil Bypass (Km 328.000 to Km 345.00 & Km of Padil Bypass)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 331.290 ",
+      "Toll_Plaza_Name": " Brahamarakotlu"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Hadadi - Devgiri (Km 260.000 to Km 340.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 288.200 ",
+      "Toll_Plaza_Name": " Chalageri"
+    },
+    {
+      "NH_No": "75",
+      "Section": "Neelmangala Junction to Devihalli",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 32.600 ",
+      "Toll_Plaza_Name": " Doddakarenahalli (Neelmangala )"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Silk Board Junction - Hosur",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 18.000 ",
+      "Toll_Plaza_Name": " Elevated Section/ Electronic City"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Hubli – Dharwad bypass from Km.403.800 to 433.200",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 408.000 ",
+      "Toll_Plaza_Name": " Gabbur (MoRTH)"
+    },
+    {
+      "NH_No": "75",
+      "Section": "Mulbagal-AP/KNT Border (km.216.912 to 239.100)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 217.450 ",
+      "Toll_Plaza_Name": " Gaddurur"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Tumkur - Chitradurga",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 172.770 ",
+      "Toll_Plaza_Name": " Guilalu"
+    },
+    {
+      "NH_No": "66",
+      "Section": "Kundapur - Surathkal",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 300.480 ",
+      "Toll_Plaza_Name": " Gundmi"
+    },
+    {
+      "NH_No": "NH218 (New NH50)",
+      "Section": "BijapurGulbargaHomnabad section",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "at Km. 303.400 (Temporarily located at Km.302.500) Harwal Vllage Tq Jewargi Dist Kalaburagi) ",
+      "Toll_Plaza_Name": " Harval"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Hattargi - Hirebagewadi (Km 537.000 to Km 515.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 537.770 ",
+      "Toll_Plaza_Name": " Hattargi"
+    },
+    {
+      "NH_No": "66",
+      "Section": "Kundapur - Surathkal",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "347.180 ",
+      "Toll_Plaza_Name": " Hazamady"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Doddasiddavanahally - Hadadi (Km 189.000 to Km 260.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 237.650 ",
+      "Toll_Plaza_Name": " Hebbalu"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Belgaum - Dharwad",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 482.600 ",
+      "Toll_Plaza_Name": " Hirebagewadi"
+    },
+    {
+      "NH_No": "13",
+      "Section": "Hungund - Hospet (Km 202.000 to 299.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 288.000 ",
+      "Toll_Plaza_Name": " Hitnal"
+    },
+    {
+      "NH_No": "NH66 old NH17",
+      "Section": "Km. 93.700 to Km. 283.300",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "182.853 ",
+      "Toll_Plaza_Name": " Holegadde"
+    },
+    {
+      "NH_No": "75",
+      "Section": "Bangalore  Kolar  Mulbagal",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 307.700 ",
+      "Toll_Plaza_Name": " Hoskote"
+    },
+    {
+      "NH_No": "65 (Old 9)",
+      "Section": "MH KNT Border to Sangareddy",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 464.600 ",
+      "Toll_Plaza_Name": " Kamkole"
+    },
+    {
+      "NH_No": "NH218 (New NH50)",
+      "Section": "BijapurGulbargaHomnabad section",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "at Km. 241.100 (Temporarily located at Km.240.100) Kannolli Vllage Tq Sindagi Dist Vijayapura) ",
+      "Toll_Plaza_Name": " Kannolli"
+    },
+    {
+      "NH_No": "75",
+      "Section": "Neelamangla Junction - Devihalli",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 101.250 ",
+      "Toll_Plaza_Name": " Karbylu (Bellur Cross)"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Tumkur - Chitradurga including Tumkur Bypass",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 104.530 ",
+      "Toll_Plaza_Name": " Karjeevanhalli"
+    },
+    {
+      "NH_No": "50",
+      "Section": "Bijapur - Hungund",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 103.888 ",
+      "Toll_Plaza_Name": " Kasaba (Bijapur)"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Nelamangala - Tumkur",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 61.500 ",
+      "Toll_Plaza_Name": " Kaythsandra/Tumkur/Chokkanahalli"
+    },
+    {
+      "NH_No": "75",
+      "Section": "Hassan - Devihalli",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 119.100 ",
+      "Toll_Plaza_Name": " Kirasave"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Maharashtra Border -Belgaum (Km 592.240 to Km 537.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 591.240 ",
+      "Toll_Plaza_Name": " Kognoli"
+    },
+    {
+      "NH_No": "65 (Old 9)",
+      "Section": "MH KNT Border to Sangareddy",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 407.500 ",
+      "Toll_Plaza_Name": " Mangalgi"
+    },
+    {
+      "NH_No": "75",
+      "Section": "Mulbagal-Kolar-Bangalore section (Km 237.000 to Km 318.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "KM 246/750 ",
+      "Toll_Plaza_Name": " Mulbagal"
+    },
+    {
+      "NH_No": "50",
+      "Section": "Bijapur - Hungund",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 165.650 ",
+      "Toll_Plaza_Name": " Nagarhalla"
+    },
+    {
+      "NH_No": "NH 4",
+      "Section": "Bangalore Pune Section",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Near Dharwad ",
+      "Toll_Plaza_Name": " Narendra (MoRTH)"
+    },
+    {
+      "NH_No": "44 (Old 7 )",
+      "Section": "Devanahalli - Bangalore  (Km 534.720 - Km 556.84 of Bangalore - Hyderabad)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 538.000 ",
+      "Toll_Plaza_Name": " Navayuga Devanahalli / Sadahalli / Pujanahalli"
+    },
+    {
+      "NH_No": "NH  48 (Old NH  4)",
+      "Section": "Neelmangla - Tumkur",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 30.000 ",
+      "Toll_Plaza_Name": " Neelamangala  - Tumkur /Kulumepalya"
+    },
+    {
+      "NH_No": "13",
+      "Section": "Hungund - Hospet (Km 202.000 to 299.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 283.500 ",
+      "Toll_Plaza_Name": " Shahapur"
+    },
+    {
+      "NH_No": "75",
+      "Section": "Hassan - Devihalli",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 169.350 ",
+      "Toll_Plaza_Name": " Shanthigrama"
+    },
+    {
+      "NH_No": "NH66 old NH17",
+      "Section": "Km. 93.700 to Km. 283.300",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "239.640 ",
+      "Toll_Plaza_Name": " Shirur"
+    },
+    {
+      "NH_No": "66",
+      "Section": "Surathkal - Nantoor & Nantoor Bypass (Km 358.000 to 375.300 & 1.6 Km of Nantoor ByPass)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 358.042 ",
+      "Toll_Plaza_Name": " Surathkal"
+    },
+    {
+      "NH_No": "66",
+      "Section": "Kundapur - Surathkal",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "16.600 ",
+      "Toll_Plaza_Name": " Talapady"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Banglore - Neelamangla (Km 10.00 to Km 29.50)\n",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 26.075 ",
+      "Toll_Plaza_Name": " Towards Bengaluru"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Banglore - Neelamangla (Km 10.00 to Km 29.50)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 14.875 ",
+      "Toll_Plaza_Name": " Towards Neelmangla"
+    },
+    {
+      "NH_No": "13",
+      "Section": "Hungund - Hospet (Km 202.000 to 299.000)",
+      "State": "Karnataka",
+      "Toll_Plaza_Location": "Km 229.061 ",
+      "Toll_Plaza_Name": " Vanagari"
+    },
+    {
+      "NH_No": "66",
+      "Section": "Aroor - Kerala/Tamil Nadu Border Section (Km  5.750 to Km 6.119 on NH 66 Bypass)",
+      "State": "Kerala",
+      "Toll_Plaza_Location": "Km 6.400 ",
+      "Toll_Plaza_Name": " Akkulam (MoRTH)"
+    },
+    {
+      "NH_No": "544",
+      "Section": "Walayar - Vadakkanchery (Km 182.500 to Km 240.00 )",
+      "State": "Kerala",
+      "Toll_Plaza_Location": "Km 189.400 ",
+      "Toll_Plaza_Name": " Chullimada Hamlet (Pampampallam)"
+    },
+    {
+      "NH_No": "66",
+      "Section": "Edapally  Vytilla  Aroor Section ( Km 342.00 to Km 358.750)",
+      "State": "Kerala",
+      "Toll_Plaza_Location": "Km 356.500 ",
+      "Toll_Plaza_Name": " Kumbalam"
+    },
+    {
+      "NH_No": "966 B",
+      "Section": "Kundannur (Km 2.800 - 5.800)",
+      "State": "Kerala",
+      "Toll_Plaza_Location": "Km 5.800 & 2.800 ",
+      "Toll_Plaza_Name": " Kundannur (MoRTH)"
+    },
+    {
+      "NH_No": "544",
+      "Section": "Thrissur - Angamali - Edapalli",
+      "State": "Kerala",
+      "Toll_Plaza_Location": "Km 278.000 ",
+      "Toll_Plaza_Name": " Paliyekkara"
+    },
+    {
+      "NH_No": "966A (Old  47C )",
+      "Section": "Kalamassery - ICTT Vallarpadam",
+      "State": "Kerala",
+      "Toll_Plaza_Location": "Km 12.750 ",
+      "Toll_Plaza_Name": " Ponnarimangalam"
+    },
+    {
+      "NH_No": "66",
+      "Section": "Varapuzha Bridge",
+      "State": "Kerala",
+      "Toll_Plaza_Location": "Km  430.800 ",
+      "Toll_Plaza_Name": " Varapuzha Bridge (MoRTH)"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Km 567.550 to Km 624.480(Lakhnadon  Seoni  MP Border)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 584.500 ",
+      "Toll_Plaza_Name": " Allonia"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Katni bypass (Km  361.200 To 378.600)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 361.2 To 378.6 ",
+      "Toll_Plaza_Name": " Ashoka DSC Katni bypass (MoRTH)"
+    },
+    {
+      "NH_No": "26",
+      "Section": "Lalitpur Sagar Lakhnadon",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 357.739 ",
+      "Toll_Plaza_Name": " Bakoli"
+    },
+    {
+      "NH_No": "92",
+      "Section": "Gwalior to MP/UP Border (Km 0.000 to 107.500)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 105.400 ",
+      "Toll_Plaza_Name": " Barahi (MoRTH)"
+    },
+    {
+      "NH_No": "92",
+      "Section": "Gwalior to MP/UP Border (Km 0.000 to 107.500)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 21.120 ",
+      "Toll_Plaza_Name": " Baretha (MoRTH)"
+    },
+    {
+      "NH_No": "7 (New 30 and 34)",
+      "Section": "Four laning of JabalpurLakhnadon section of NH7 (PackageJabalpur Lakhnadon)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "VillageBoharipar TehsilJabalpur2 Distt. Jabalpur ",
+      "Toll_Plaza_Name": " Boharipar (Khursi)"
+    },
+    {
+      "NH_No": "NH3(old) NH52(New)",
+      "Section": "Biaora to Dewas  141.459 Kms",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "229.900 km ",
+      "Toll_Plaza_Name": " Chhapra"
+    },
+    {
+      "NH_No": "347",
+      "Section": "Multaichhindwara - Seroni ( Km 0.000 to Km 75.592)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 21.00 ",
+      "Toll_Plaza_Name": " Chikhalikala"
+    },
+    {
+      "NH_No": "26",
+      "Section": "Lalitpur - Lakhnadon",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 226.740 ",
+      "Toll_Plaza_Name": " Chitora"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Morena  Gwalior",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 84.000 ",
+      "Toll_Plaza_Name": " Choundha"
+    },
+    {
+      "NH_No": "NH 47",
+      "Section": "From KM 9.500 to 171.00",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 118.650 ",
+      "Toll_Plaza_Name": " Dattigaon"
+    },
+    {
+      "NH_No": "347",
+      "Section": "Chindwara -Ring Road-Seoni ( Km 91.066 to Km 152.351)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 139.000 ",
+      "Toll_Plaza_Name": " Fulara"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Guna Bypass",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 331.500 ",
+      "Toll_Plaza_Name": " Guna Bypass"
+    },
+    {
+      "NH_No": "3 (Old 75 )",
+      "Section": "Gwalior Byepass (Mehra)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 32.607 ",
+      "Toll_Plaza_Name": " Gwalior Bypass (Mehra)"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Indore - Dewas",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 591.000 ",
+      "Toll_Plaza_Name": " Indore Dewas  (Indore Bypass)"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Indore - Dewas",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 591.000 ",
+      "Toll_Plaza_Name": " Indore Dewas (Indore side)"
+    },
+    {
+      "NH_No": "547",
+      "Section": "Amarwara - Narsinghpur ( Km 140.000 to  Km 210.010)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 197.00 ",
+      "Toll_Plaza_Name": " Jaitpur"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Agra - Dholpur (Km 8.00 - Km 51)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 28.600 ",
+      "Toll_Plaza_Name": " Jajau (Old Baretha)"
+    },
+    {
+      "NH_No": "NH46(Old NH3)",
+      "Section": "41.8 KM",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "165.197 ",
+      "Toll_Plaza_Name": " Jogipura"
+    },
+    {
+      "NH_No": "547",
+      "Section": "Chindwara  - Amarawara( km 23.590 to Km 57.070 & from  Km 97.455 to Km 140.000)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 136.00 ",
+      "Toll_Plaza_Name": " Jungawani"
+    },
+    {
+      "NH_No": "547",
+      "Section": "Saoner - Chindwara  Upto Chindwara Ring Road ( Km 0.000 to Km 75.460)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 13.000 ",
+      "Toll_Plaza_Name": " Kelwad"
+    },
+    {
+      "NH_No": "39 (Old 75E)",
+      "Section": "Rewa to Sidhi",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "6.00 ",
+      "Toll_Plaza_Name": " Khadda"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Indore - Khalghat",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 75.700 ",
+      "Toll_Plaza_Name": " Khalghat  (Indore - Khalghat)"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Khalghat MP/Maharashtra (Km 84.700 to Km 167.500)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 141.850 ",
+      "Toll_Plaza_Name": " Khalghat -MP/Maharashtra Border(Sendhwa, Jamli)"
+    },
+    {
+      "NH_No": "69",
+      "Section": "Nagpur - Saoner - Betul ( Km 3.00 to Km 59.300 and Km 137.00 Km 257.400 )",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 71.050 ",
+      "Toll_Plaza_Name": " Khambara"
+    },
+    {
+      "NH_No": "New NH  30 (Old NH 7)",
+      "Section": "Four Laning of RewaKatniKatni section of NH7 (From Km 311.000 to Km 359.500  Km 378.500 to Km 397.000) excluding Katni bypass  in the state of Madhya Pradesh (PackageII) under NHDPIV on EPC mod",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 311.000 to Km 359.500  Km 378.500 to Km 397.000) excluding Katni bypass (PackageII) to NH7 (New NH  30) (Maihar  Slimnabad) at Toll Plaza in Village Kherwasani DistrictSatna Fee Plaza at Km 325.400 in the State of Madhya Pradesh ",
+      "Toll_Plaza_Name": " Kherwasani"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Rewa by Pass",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 650 ",
+      "Toll_Plaza_Name": " Koshta (MoRTH)"
+    },
+    {
+      "NH_No": "NH 78 (New NH 43)",
+      "Section": "KatniUmaria from Km. 0.00 to Km. 69.100 on NH 78 (New NH 43)  (Package1)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "16.580 ",
+      "Toll_Plaza_Name": " Majhgawan"
+    },
+    {
+      "NH_No": "26",
+      "Section": "Lalitpur - Lakhnadon",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 142.319 ",
+      "Toll_Plaza_Name": " Malthone"
+    },
+    {
+      "NH_No": "NH 47",
+      "Section": "From KM 9.500 to 171.00",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 34.45 ",
+      "Toll_Plaza_Name": " Methwada"
+    },
+    {
+      "NH_No": "69",
+      "Section": "Nagpur - saoner - Betul (Km 3.000 to Km 59.300  and Km 137.000 Km 257.401)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 14.700 ",
+      "Toll_Plaza_Name": " Milanpur"
+    },
+    {
+      "NH_No": "7 (New 30)",
+      "Section": "Four laning of RewaKatniJabalpur section of NH7 (PackageIV)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "VillageMohtara TehsilSihora Distt. Jabalpur ",
+      "Toll_Plaza_Name": " Mohtara"
+    },
+    {
+      "NH_No": "NH46 (OLDNH3)",
+      "Section": "Four laning of GwaliorShivpuri section of NH3 from km 15.600 of NH75 (End of Gwalior bypass) to km 236.00 of NH3 in the state of Madhya Pradesh on BOT (Toll) on  DBFOT Pattern under NHDP PhaseIV",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km. 81.400 ",
+      "Toll_Plaza_Name": " Mudkhera"
+    },
+    {
+      "NH_No": "New NH  30 (Old NH 7)",
+      "Section": "Four laning of RewaKatniJabalpur section of NH7 (from km 242.600 to km 311.000)  in the state of Madhya Pradesh (Package1) under NHDPIV on EPC mode)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "At chainage design Km 262.100 (existing km 262.000) of NH7 (New NH30) near village Odhaki Paipkhar near town Amarpatan in Satna district of Madhya Pradesh. ",
+      "Toll_Plaza_Name": " Odhaki Paipkhar"
+    },
+    {
+      "NH_No": "NH46(Old NH3)",
+      "Section": "93.5KM",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "113.278 KM ",
+      "Toll_Plaza_Name": " Pagara"
+    },
+    {
+      "NH_No": "7 (New NH30)",
+      "Section": "MandlaChilpi Section of NH12A (New NH30)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Village Pandutala Distt Mandla ",
+      "Toll_Plaza_Name": " Pandutala"
+    },
+    {
+      "NH_No": "NH46 (OLDNH3)",
+      "Section": "Four laning of GwaliorShivpuri section of NH3 from km 15.600 of NH75 (End of Gwalior bypass) to km 236.00 of NH3 in the state of Madhya Pradesh on BOT (Toll) on  DBFOT Pattern under NHDP PhaseIV",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km. 136.00 ",
+      "Toll_Plaza_Name": " Panihaar"
+    },
+    {
+      "NH_No": "12",
+      "Section": "Parvati Bridge",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 359.10 ",
+      "Toll_Plaza_Name": " Parvati Bridge (MoRTH)"
+    },
+    {
+      "NH_No": "69",
+      "Section": "Nagpur - Saoner - Betul (Km 3.000 to Km 59.300 and  Km 137.000 Km 257.402)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 25.700 ",
+      "Toll_Plaza_Name": " Patanswangi"
+    },
+    {
+      "NH_No": "NH 78 (New NH 43)",
+      "Section": "ShahdolAnuppurMPCG border from Km. 142.200 to Km. 234.000 on NH 78 (New NH 43)  (Package3)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "221.570 ",
+      "Toll_Plaza_Name": " Pathoroundi"
+    },
+    {
+      "NH_No": "NH46(Old3)",
+      "Section": "Km 236.00 to 319.700 (Stage1)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 22.930 ",
+      "Toll_Plaza_Name": " Purankhedi"
+    },
+    {
+      "NH_No": "NH3(old) NH52(New)",
+      "Section": "Biaora to Dewas  141.459 Kms",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "291.550 ",
+      "Toll_Plaza_Name": " Rojwas"
+    },
+    {
+      "NH_No": "7 (New NH30)",
+      "Section": "Jabalpur Mandla Chilpi Section of NH 12A (New NH30)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "13.440 ",
+      "Toll_Plaza_Name": " Saliwada"
+    },
+    {
+      "NH_No": "Old NH86 (Extn.)  New NH146",
+      "Section": "Bhopal Sanchi",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "At Ch.km 13280 NH86 (Extn.) Village Sehatganj Near Som Distilleries District Raisen (M.P.) ",
+      "Toll_Plaza_Name": " Sehatganj"
+    },
+    {
+      "NH_No": "NH 78 (New NH 43)",
+      "Section": "ShahdolAnuppurMPCG border from Km. 142.200 to Km. 234.000 on NH 78 (New NH 43)  (Package3)",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "146.420 ",
+      "Toll_Plaza_Name": " Shahdol"
+    },
+    {
+      "NH_No": "39 (Old 75E)",
+      "Section": "Rewa to Sidhi",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "58.800 ",
+      "Toll_Plaza_Name": " Sonvarsaa"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Indore - Khalghat",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "KM 4.000 ",
+      "Toll_Plaza_Name": " Sonvay (Indore - Khalghat)"
+    },
+    {
+      "NH_No": "26",
+      "Section": "Lalitpur - Lakhnadon",
+      "State": "Madhya Pradesh",
+      "Toll_Plaza_Location": "Km 295.000 ",
+      "Toll_Plaza_Name": " Titarpani"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Pune - Satara",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 748.600 ",
+      "Toll_Plaza_Name": " Anewadi"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Vadape - Gonde",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 532.690 ",
+      "Toll_Plaza_Name": " Arjunali"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Pimplegaon Nashik Gonde",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 390.450 ",
+      "Toll_Plaza_Name": " Baswant (Pimplegaon)"
+    },
+    {
+      "NH_No": "NH211 (New NH52)",
+      "Section": "189.023 Km",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Bhokarwadi Maliwadi ",
+      "Toll_Plaza_Name": " Bhokarwadi Maliwadi"
+    },
+    {
+      "NH_No": "7",
+      "Section": "MP/Maharashtra Border - Nagpur Section",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 35.600 ",
+      "Toll_Plaza_Name": " Borkhedi (Nagpur ByPass)"
+    },
+    {
+      "NH_No": "50",
+      "Section": "Khed - Sinnar (Km 42.000 - Km 177.000)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 91.106 ",
+      "Toll_Plaza_Name": " Chalakwadi"
+    },
+    {
+      "NH_No": "50",
+      "Section": "Pune Nashik Road NH-50 (Km 12.190 to 42.000)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 41.800 ",
+      "Toll_Plaza_Name": " Chandloi/ Rajgurunagar (MoRTH)"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Pimpalgoan - Dhule",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 356.700 ",
+      "Toll_Plaza_Name": " Chandwad"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Borkhedi - Wadner",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 92.500 ",
+      "Toll_Plaza_Name": " Daroda"
+    },
+    {
+      "NH_No": "NH 222  (New 61)",
+      "Section": "Malshej Ghat to Ane Ghat (Km 161.212 to Km 211.000 ) two lane section in Ahmednagar District in the state of Maharashtra",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "178.100 ",
+      "Toll_Plaza_Name": " Dhoki"
+    },
+    {
+      "NH_No": "NH 222  (New 61)",
+      "Section": "Malshej Ghat to Ane Ghat (Km 101.000 to Km 161.212) two lane section in Pune District in the state of Maharashtra",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "125.700 ",
+      "Toll_Plaza_Name": " Dumberwadi"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Surat - Dhula - Nagpur Section( Km 398.000 to Km 400.000)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 399.00 ",
+      "Toll_Plaza_Name": " Fekri (MoRTH)"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Vadape - Gonde",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 455.485 ",
+      "Toll_Plaza_Name": " Ghoti"
+    },
+    {
+      "NH_No": "53",
+      "Section": "Nagpur  Kondhali",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 20.612 ",
+      "Toll_Plaza_Name": " Gondhkhairi/ Kondhali"
+    },
+    {
+      "NH_No": "60 (Old 50)",
+      "Section": "Khed - Sinnar (Km 42.000 - Km 177.000)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 138.749 ",
+      "Toll_Plaza_Name": " Hivargaon Pavsa"
+    },
+    {
+      "NH_No": "361",
+      "Section": "Yavatmal  Wardha",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "443.042 ",
+      "Toll_Plaza_Name": " Husnapur"
+    },
+    {
+      "NH_No": "53",
+      "Section": "Kondhali - Talegaon",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 76.130 ",
+      "Toll_Plaza_Name": " Karanja (Ghadge)"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Construction of Bridge and its approaches a/c Wainganga River in Km. 419/00 on Nh-6",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 489.360 ",
+      "Toll_Plaza_Name": " Kardha (MoRTH)"
+    },
+    {
+      "NH_No": "9",
+      "Section": "Pune Solapur Road NH-9 (Km 14.000 to  40.000)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 39.800 ",
+      "Toll_Plaza_Name": " Kasurdi (MoRTH)"
+    },
+    {
+      "NH_No": "9",
+      "Section": "Pune Solapur Road NH-9 in stretch Km 14/00 to  40/00 (total 26 Km.)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 14.050 ",
+      "Toll_Plaza_Name": " Kawdipath (MoRTH)"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Deodhari - Kelapur (Km. 123.000 to Km. 153.600)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 150.000 ",
+      "Toll_Plaza_Name": " Kelapur"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Km 539.500 (Vadape) to Km  563.000 ( Majiwade-Thane)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Kharegaon ",
+      "Toll_Plaza_Name": " Kharegaon (MoRTH)"
+    },
+    {
+      "NH_No": "66 (Old 17)",
+      "Section": "Kharpada Bridge",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 16.40 ",
+      "Toll_Plaza_Name": " Kharpada (MoRTH)"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Pune - Satara",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 819.240 ",
+      "Toll_Plaza_Name": " Khedshivapur"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Satara - Kagal",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 634.500 ",
+      "Toll_Plaza_Name": " Kini"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Pimpalgoan - Dhule",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 268.632 ",
+      "Toll_Plaza_Name": " Laling (Dhule)"
+    },
+    {
+      "NH_No": "7",
+      "Section": "MP/Maharashtra Border -  Nagpur Section",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 690.600 ",
+      "Toll_Plaza_Name": " Mansar (Kamptee - Kanhan Bypass)/ Tekadi"
+    },
+    {
+      "NH_No": "50",
+      "Section": "Pune Nashik Road Nh-50 (Km 12.190 to 42.000)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 24.0 ",
+      "Toll_Plaza_Name": " Moshi (MoRTH)"
+    },
+    {
+      "NH_No": "53",
+      "Section": "Talegaon - Amravati",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 142.800 ",
+      "Toll_Plaza_Name": " Nandgaon Peth"
+    },
+    {
+      "NH_No": "3",
+      "Section": "Km  219.700 to 233.00",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 225/200 ",
+      "Toll_Plaza_Name": " Nardana (MoRTH)"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Nashirabad ROB ( Km. 414.000 to 419.000 of NH-6)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 415.800 ",
+      "Toll_Plaza_Name": " Nashirabad (MoRTH)"
+    },
+    {
+      "NH_No": "NH211 (New NH52)",
+      "Section": "189.023 Km",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Padalshingi ",
+      "Toll_Plaza_Name": " Padalshingi"
+    },
+    {
+      "NH_No": "NH211 (New NH52)",
+      "Section": "189.023 Km",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Pargaon ",
+      "Toll_Plaza_Name": " Pargaon"
+    },
+    {
+      "NH_No": "9",
+      "Section": "Pune - Solapur Pkg. I (km 40 - 144.400)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 65.000 ",
+      "Toll_Plaza_Name": " Patas"
+    },
+    {
+      "NH_No": "NH 65",
+      "Section": "Four laning Solapur  MaharasthtraKarnataka border section of NH65 from Km 249000 to 348800",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "At km 280.300 ",
+      "Toll_Plaza_Name": " Phulwadi"
+    },
+    {
+      "NH_No": "9",
+      "Section": "Pune - Solapur Pkg. I (km 40 - 144.400)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 140.100 ",
+      "Toll_Plaza_Name": " Sardewadi / Indapur"
+    },
+    {
+      "NH_No": "66 (Old 17)",
+      "Section": "Savitri Bridge",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 129.400 ",
+      "Toll_Plaza_Name": " Savitri (MoRTH)"
+    },
+    {
+      "NH_No": "9",
+      "Section": "Pune - Solapur Pkg. II (km 144.400 - km 249.000)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 229.350 ",
+      "Toll_Plaza_Name": " Sawaleshwar"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Chattisgarh/Maharashtra Border - Wainganga Bridge",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 449.260 ",
+      "Toll_Plaza_Name": " Sendurwafa"
+    },
+    {
+      "NH_No": "3",
+      "Section": "MP/Maharashtra Border - Dhule",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 205.000 ",
+      "Toll_Plaza_Name": " Shirpur"
+    },
+    {
+      "NH_No": "3",
+      "Section": "MP/Maharashtra Border - Dhule",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 244.500 ",
+      "Toll_Plaza_Name": " Songir"
+    },
+    {
+      "NH_No": "NH 65",
+      "Section": "Four laning Solapur  MaharasthtraKarnataka border section of NH65 from Km 249000 to 348800",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "At Km 343.850 ",
+      "Toll_Plaza_Name": " Talmod"
+    },
+    {
+      "NH_No": "211",
+      "Section": "na",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "19.300 ",
+      "Toll_Plaza_Name": " Tamalwadi"
+    },
+    {
+      "NH_No": "4",
+      "Section": "Satara - Kagal",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 694.150 ",
+      "Toll_Plaza_Name": " Tasawade"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Pinglai River in Km. 114.209",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 114.209 ",
+      "Toll_Plaza_Name": " Tiwasa (MoRTH)"
+    },
+    {
+      "NH_No": "9",
+      "Section": "Pune - Solapur Pkg. II (km 144.400 - km 249.000)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 178.572 ",
+      "Toll_Plaza_Name": " Varwade"
+    },
+    {
+      "NH_No": "13",
+      "Section": "Hattur,Bridge Km. 14.200,& Wadakbal bridge Km. 16.500",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Wadakbal ",
+      "Toll_Plaza_Name": " Wadakbal (MoRTH)"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Km. 498.000 to Km. 544.200(Nagpur-Wainganga)",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "Km 523.400 ",
+      "Toll_Plaza_Name": " WEPL Mathani"
+    },
+    {
+      "NH_No": "211",
+      "Section": "0",
+      "State": "Maharashtra",
+      "Toll_Plaza_Location": "77.40 ",
+      "Toll_Plaza_Name": " Yedeshi"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Shilong bypass",
+      "State": "Meghalaya",
+      "Toll_Plaza_Location": "Km 24.700 ",
+      "Toll_Plaza_Name": " Deingpasoh"
+    },
+    {
+      "NH_No": "NH44 (New NH6)",
+      "Section": "Rehabilitation and Upgradation of Existing Road to 2lane with Paved Shoulders Configuration in JowaiMeghalayal AssamBorderSection of NH44 from km 69.200 to km 173.2 (104 km) in the State of Meghalaya",
+      "State": "Meghalaya",
+      "Toll_Plaza_Location": "Lomshinong Village ",
+      "Toll_Plaza_Name": " Lomshinong"
+    },
+    {
+      "NH_No": "40",
+      "Section": "Jorabat - Shillong (Barapani) (Km 0.000 to Km 61.840",
+      "State": "Meghalaya",
+      "Toll_Plaza_Location": "Km 13.550 ",
+      "Toll_Plaza_Name": " Pahammawlein"
+    },
+    {
+      "NH_No": "NH44 (New NH6)",
+      "Section": "Rehabilitation and Upgradation of Existing Road to 2lane with Paved Shoulders Configuration in JowaiMeghalayal AssamBorderSection of NH44 from km 69.200 to km 173.2 (104 km) in the State of Meghalaya",
+      "State": "Meghalaya",
+      "Toll_Plaza_Location": "Pasyih Village ",
+      "Toll_Plaza_Name": " Pasyih"
+    },
+    {
+      "NH_No": "215",
+      "Section": "Panikholi to Rimuli",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "134.380 ",
+      "Toll_Plaza_Name": " Banajodi (Padmapur)"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Sambalpur-Baragarh-Orisha",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "Km 41.00 ",
+      "Toll_Plaza_Name": " Baragarh (Barhaguda)"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Sunakhala - Bhubaneshwar (Km 362.000 to Km 286.010)",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "Km 375.500 ",
+      "Toll_Plaza_Name": " Gudipada (Old Gangapada)"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Sunakhala - Puintola (Km 362.000 to Km 419.600)",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "Km 389.609 ",
+      "Toll_Plaza_Name": " Gurapalli"
+    },
+    {
+      "NH_No": "215",
+      "Section": "Panikholi to Rimuli",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "32.900 ",
+      "Toll_Plaza_Name": " Hasanpur (Sainkul)"
+    },
+    {
+      "NH_No": "215",
+      "Section": "Panikholi to Rimuli",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "91.900 ",
+      "Toll_Plaza_Name": " Khantaghar (Dhenkikote)"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Bhubaneshwar - Chetia",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "Km 34.624 ",
+      "Toll_Plaza_Name": " Manguli"
+    },
+    {
+      "NH_No": "316",
+      "Section": "Bhubaneswar - Puri",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "Km 21.00 ",
+      "Toll_Plaza_Name": " Paat Sahanipur (Pipli)"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Chandikhole - Bhadrak [Km 62.000 to Km 136.500 (New Chainage Km 218.000 to Km 143.500)]",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "Km 191.698 ",
+      "Toll_Plaza_Name": " Panikholi"
+    },
+    {
+      "NH_No": "16",
+      "Section": "Bhadrak - Balasore (Km 136.500 to Km199.141 (New Chainage Km 143.635 to Km 80.994))",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "Km 97.960 ",
+      "Toll_Plaza_Name": " Sergarh"
+    },
+    {
+      "NH_No": "5A",
+      "Section": "Chandikhol - Paradip (Km 0.000 to Km 76.588)",
+      "State": "Odisha",
+      "Toll_Plaza_Location": "Km 3.588 ",
+      "Toll_Plaza_Name": " Srirampur"
+    },
+    {
+      "NH_No": "NH 7",
+      "Section": "0.00 Km to 50.00 Km",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "9.120 Km ",
+      "Toll_Plaza_Name": " Azizpur"
+    },
+    {
+      "NH_No": "7 (Old 64)",
+      "Section": "Patiala Sangrur Barnala Bathinda",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "139.720 ",
+      "Toll_Plaza_Name": " Badbar"
+    },
+    {
+      "NH_No": "5",
+      "Section": "Zirakpur  Parwanoo",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 51.400 ",
+      "Toll_Plaza_Name": " Chandimandir"
+    },
+    {
+      "NH_No": "1",
+      "Section": "Amritsar - Wagah Border (Km 456.100 -  Km 492.030)",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 479.868 ",
+      "Toll_Plaza_Name": " Chiddan"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Jalandhar - Pathankot ( Km 4.23 to Km 70.00)",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 34.500 ",
+      "Toll_Plaza_Name": " Chollang"
+    },
+    {
+      "NH_No": "152",
+      "Section": "Ambala  Zirakpur",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 23.080 ",
+      "Toll_Plaza_Name": " Dappar"
+    },
+    {
+      "NH_No": "NH 7",
+      "Section": "0.00 km to 50 km",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "42.600 ",
+      "Toll_Plaza_Name": " Dhareri jattan"
+    },
+    {
+      "NH_No": "1",
+      "Section": "Jalandhar  Amritsar",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 410.180 ",
+      "Toll_Plaza_Name": " Dhilwan"
+    },
+    {
+      "NH_No": "1A",
+      "Section": "Jalandhar - Pathankot - Lakhanpur",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 84.500 ",
+      "Toll_Plaza_Name": " Harsa Mansar"
+    },
+    {
+      "NH_No": "7 (Old 64)",
+      "Section": "Patiala Sangrur Barnala Bathinda",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 85.950 ",
+      "Toll_Plaza_Name": " Kalajhar"
+    },
+    {
+      "NH_No": "205",
+      "Section": "Kurali - Kiratpur",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 35.000 ",
+      "Toll_Plaza_Name": " Kurali (Behrampur)"
+    },
+    {
+      "NH_No": "54",
+      "Section": "Pathankot-Amritsar",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 16.000 ",
+      "Toll_Plaza_Name": " Ladpalwan"
+    },
+    {
+      "NH_No": "NH 07(Old NH 64)",
+      "Section": "KM 10.00 to KM 41.405",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 191.929 ",
+      "Toll_Plaza_Name": " Leherabega"
+    },
+    {
+      "NH_No": "NH73",
+      "Section": "Yamunanagar Panchkula",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "98.750 Km ",
+      "Toll_Plaza_Name": " Milk Majra"
+    },
+    {
+      "NH_No": "1",
+      "Section": "Jalandhar   Amritsar",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 442.800 ",
+      "Toll_Plaza_Name": " Nijjarpura"
+    },
+    {
+      "NH_No": "71(New NH 52)",
+      "Section": "KM 181.805 to KM 238.695",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "KM 227.138 ",
+      "Toll_Plaza_Name": " Paind"
+    },
+    {
+      "NH_No": "54",
+      "Section": "Pathankot-Amritsar",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 88.500 ",
+      "Toll_Plaza_Name": " Waryam Nangal"
+    },
+    {
+      "NH_No": "NH 54 (Old NH 15)",
+      "Section": "KM 221.380 to KM 287.215",
+      "State": "Punjab",
+      "Toll_Plaza_Location": "Km 267.488 ",
+      "Toll_Plaza_Name": " Zidda"
+    },
+    {
+      "NH_No": "52",
+      "Section": "Reengus - Sikar (Km 298.075 to Km 341.047)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 324.638 ",
+      "Toll_Plaza_Name": " Akhepura"
+    },
+    {
+      "NH_No": "11",
+      "Section": "Bharatpur - Mahua (Km 63.000 to Km 120.000)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 98.500 ",
+      "Toll_Plaza_Name": " Amoli"
+    },
+    {
+      "NH_No": "76",
+      "Section": "Chittorgarh - Kota",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 294.469 ",
+      "Toll_Plaza_Name": " Aroli"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Bewar to Gomti (Km 58.245 to Km 134)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 84 ",
+      "Toll_Plaza_Name": " Bagaliya (MoRTH)"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Bewar to Gomti (Km 58.245 to Km 177.050)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 134 ",
+      "Toll_Plaza_Name": " Baggad (MoRTH)"
+    },
+    {
+      "NH_No": "458",
+      "Section": "Nimbijodha  Degna  Merta City (0.000  139.900)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "34.000 ",
+      "Toll_Plaza_Name": " Banthadi"
+    },
+    {
+      "NH_No": "52",
+      "Section": "Jaipur - Deoli",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 30.500 ",
+      "Toll_Plaza_Name": " Barkheda (Chandlai)"
+    },
+    {
+      "NH_No": "76",
+      "Section": "Chittorgarh - Kota",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 237.629 ",
+      "Toll_Plaza_Name": " Bassi"
+    },
+    {
+      "NH_No": "14",
+      "Section": "Beawar-Pali-Pindwara",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 154.00 ",
+      "Toll_Plaza_Name": " Birami"
+    },
+    {
+      "NH_No": "15 (New 68)",
+      "Section": "Barmer SanchoreGujarat Border (upto Gandhav Bridge) Section of NH15 from Km 153.00 to 259.300 (length 106.300Km)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "238.800 ",
+      "Toll_Plaza_Name": " Bor Charnan"
+    },
+    {
+      "NH_No": "11B",
+      "Section": "Karauli - Dholpur (Km 83.960 - Km 184.860)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "142.350 ",
+      "Toll_Plaza_Name": " Chila Chond"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Gurgaon  Kotputli  Jaipur",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 241.000 ",
+      "Toll_Plaza_Name": " Daulatpura"
+    },
+    {
+      "NH_No": "52 (Old 65)",
+      "Section": "Rajasthan Border Fatehpur Salasar section",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "69.000 ",
+      "Toll_Plaza_Name": " Dhadhar"
+    },
+    {
+      "NH_No": "76",
+      "Section": "Chittorgarh - Kota",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 340.979 ",
+      "Toll_Plaza_Name": " Dhaneshwar"
+    },
+    {
+      "NH_No": "112",
+      "Section": "Jodhpur Pachpadra Section",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 174.875 ",
+      "Toll_Plaza_Name": " Doli"
+    },
+    {
+      "NH_No": "76",
+      "Section": "Kota - Baran Section",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 461.290 ",
+      "Toll_Plaza_Name": " Fatehpur"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Kishangarh-Ajmer-Beawar",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 378.800 ",
+      "Toll_Plaza_Name": " Gegal"
+    },
+    {
+      "NH_No": "76",
+      "Section": "Jaswantgarh - Debari",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 64.200 ",
+      "Toll_Plaza_Name": " Gogunda (Jaswantgarh)"
+    },
+    {
+      "NH_No": "NH58",
+      "Section": "Salasar Nagaur Section",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km. 258.555 ",
+      "Toll_Plaza_Name": " Harimma"
+    },
+    {
+      "NH_No": "15 (New 68)",
+      "Section": "Barmer Sanchore Gujarat Border (upto Gandhav Bridge) Section of NH15 from Km 153.00 to 259.300 (length 106.300Km)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "175.680 ",
+      "Toll_Plaza_Name": " Hathitala"
+    },
+    {
+      "NH_No": "14",
+      "Section": "Beawar-Pali-Pindwara",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 93.750 ",
+      "Toll_Plaza_Name": " Indranagar"
+    },
+    {
+      "NH_No": "114",
+      "Section": "Jodhpur to Pokaran",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "33.189 ",
+      "Toll_Plaza_Name": " Jasnathnagar"
+    },
+    {
+      "NH_No": "79",
+      "Section": "Bhilwara - Chittorgarh (Km 81.000 to Km 163.900)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 184.20 ",
+      "Toll_Plaza_Name": " Jojro Ka Khera"
+    },
+    {
+      "NH_No": "15 (New 68)",
+      "Section": "Jaisalmer Barmer Section of NH15 to TwoFour Lane with paved shoulders from km 0.00 to Km 122.880  Km 144.500 to Km 153.034",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "44.160 ",
+      "Toll_Plaza_Name": " Kair Fakir ki Dhani"
+    },
+    {
+      "NH_No": "79A  79",
+      "Section": "Kishangarh (km 0.000) to Gulabpura (km 90.000) section of NH 79A and NH 79",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "61.02 ",
+      "Toll_Plaza_Name": " Kedi"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Kherwara - Ratanpur (Km 348.000 to Km 388.180)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 348.450 ",
+      "Toll_Plaza_Name": " Khandi Obari"
+    },
+    {
+      "NH_No": "11",
+      "Section": "Bikaner to Phalodi",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 141.830 ",
+      "Toll_Plaza_Name": " Kheerwa"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Jaipur - Kishangarh",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 360.700 ",
+      "Toll_Plaza_Name": " Kishangarh (Badgaon)"
+    },
+    {
+      "NH_No": "52",
+      "Section": "Deoli - Kota",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 180.00 ",
+      "Toll_Plaza_Name": " Kishorpura"
+    },
+    {
+      "NH_No": "11B",
+      "Section": "Karauli  Dholpur (Km 83.960  Km 184.860)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "91.800 ",
+      "Toll_Plaza_Name": " Konder"
+    },
+    {
+      "NH_No": "21",
+      "Section": "Agra - Bharatpur",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 30.090 ",
+      "Toll_Plaza_Name": " Korai"
+    },
+    {
+      "NH_No": "79",
+      "Section": "Gulabpura  Chittorgarh (Km 100.750 to Km 121.20)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 121.20 ",
+      "Toll_Plaza_Name": " Lambiya Kalan"
+    },
+    {
+      "NH_No": "52 (Old 65)",
+      "Section": "Rajasthan Border Fatehpur Salasar section",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "8.700 ",
+      "Toll_Plaza_Name": " Lasedi"
+    },
+    {
+      "NH_No": "NH15 (New NH11)",
+      "Section": "PHALODI  JAISALMER SEC NH15 TO TWO  FOUR LANE WITH PAVED SHULDER",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "PHALODI  JAISALMER SEC NH15 TO TWO  FOUR LANE WITH PAVED SHULDER ",
+      "Toll_Plaza_Name": " LATHI"
+    },
+    {
+      "NH_No": "458",
+      "Section": "Lambia - Raipur",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 216.327 ",
+      "Toll_Plaza_Name": " Lilamba"
+    },
+    {
+      "NH_No": "Nh113(New 56)",
+      "Section": "Padhi Dahod",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "240.700 ",
+      "Toll_Plaza_Name": " Limdi"
+    },
+    {
+      "NH_No": "11",
+      "Section": "Bharatpur - Mahua ((Km 62.295 to Km 119.600)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 64.570 ",
+      "Toll_Plaza_Name": " Ludhawai"
+    },
+    {
+      "NH_No": "76",
+      "Section": "Pindwara - Jaswantgarh",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 11.200 ",
+      "Toll_Plaza_Name": " Malera"
+    },
+    {
+      "NH_No": "NH52 (Old NH12)",
+      "Section": "Kota (Km 256550) to Darah (Km. 290880) of NH52 (Old NH12)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km. 273.654 near MandanaVillage KotaDistrict ",
+      "Toll_Plaza_Name": " Mandana"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Gomti Churaha - Udaipur",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 187.244 ",
+      "Toll_Plaza_Name": " Mandawada (Gomati)"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Gurgaon - Kotputli - Jaipur",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 211.000 ",
+      "Toll_Plaza_Name": " Manoharpur"
+    },
+    {
+      "NH_No": "52",
+      "Section": "Jhalawar-Rajasthan/M.P.Border (Km 346.540 to Km Km 408.700)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 376.180 ",
+      "Toll_Plaza_Name": " Methoon"
+    },
+    {
+      "NH_No": "114",
+      "Section": "Jodhpur to Pokaran",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "165.401 ",
+      "Toll_Plaza_Name": " Morani (Pokaran)"
+    },
+    {
+      "NH_No": "114",
+      "Section": "Jodhpur To Pokaran",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "98.809 ",
+      "Toll_Plaza_Name": " Motisar (Khanori)"
+    },
+    {
+      "NH_No": "758",
+      "Section": "Rajsamand  Bhilwara",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "78.000 ",
+      "Toll_Plaza_Name": " Mujras"
+    },
+    {
+      "NH_No": "27",
+      "Section": "Baran-Shivpuri-Jhansi",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 525.725 ",
+      "Toll_Plaza_Name": " Mundiyar"
+    },
+    {
+      "NH_No": "76",
+      "Section": "Udaipur  Chittorgarh (Km 214 to Km 308)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 261.770 ",
+      "Toll_Plaza_Name": " Narayanpura"
+    },
+    {
+      "NH_No": "NH27",
+      "Section": "Kota Bypass  Cable Stayed Bridge",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "4.870 ",
+      "Toll_Plaza_Name": " Nayagaon(RHS) (Staggered)"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Gomti Churaha - Udaipur",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 238.170 ",
+      "Toll_Plaza_Name": " Negadiya"
+    },
+    {
+      "NH_No": "25",
+      "Section": "Bagundi - Barmer (km 254.800 to km 328.900)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 300.300 ",
+      "Toll_Plaza_Name": " Nimbaniya Ki Dhani (Bayatu)"
+    },
+    {
+      "NH_No": "NH58",
+      "Section": "Salasar Nagaur Section",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km. 199.985 ",
+      "Toll_Plaza_Name": " Nimbi Jodha"
+    },
+    {
+      "NH_No": "11",
+      "Section": "Bikaner to Phalodi",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 84.400 ",
+      "Toll_Plaza_Name": " Nokhra"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Udaipur - Kherwara (Km 278.000 to Km 348.000)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 311.100 ",
+      "Toll_Plaza_Name": " Paduna"
+    },
+    {
+      "NH_No": "148D",
+      "Section": "Bheem - Gulabpura - Parasoli ByPass",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 34.500 ",
+      "Toll_Plaza_Name": " Para"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Kishangarh-Ajmer-Beawar",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 44.800 ",
+      "Toll_Plaza_Name": " Pipalaz"
+    },
+    {
+      "NH_No": "14",
+      "Section": "Beawar-Pali-Pindwara",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 27.50 ",
+      "Toll_Plaza_Name": " Raipur"
+    },
+    {
+      "NH_No": "21",
+      "Section": "Mahua - Jaipur (Km 120.000 to Km 228.000)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 204.700 ",
+      "Toll_Plaza_Name": " Rajadhok"
+    },
+    {
+      "NH_No": "27",
+      "Section": "Amola - Jhansi Bypass",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 84.650 ",
+      "Toll_Plaza_Name": " Raksha"
+    },
+    {
+      "NH_No": "NH15 (New NH11)",
+      "Section": "PhalodiJaisalmer Section of NH15",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "km 209.500 ",
+      "Toll_Plaza_Name": " Ramdevra"
+    },
+    {
+      "NH_No": "27",
+      "Section": "Raj/MP Boarder-Amola Vill (Shivpuri Bypass)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 589.370 ",
+      "Toll_Plaza_Name": " Ramnagar"
+    },
+    {
+      "NH_No": "758",
+      "Section": "Rajsamand  Bhilwara",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 18.000 ",
+      "Toll_Plaza_Name": " Rupa Kheda"
+    },
+    {
+      "NH_No": "NH27",
+      "Section": "Kota Bypass  Cable Stayed Bridge",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "1.250 ",
+      "Toll_Plaza_Name": " Sakatpura(LHS)(Staggered)"
+    },
+    {
+      "NH_No": "11",
+      "Section": "Bikaner to Phalodi",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 23.950 ",
+      "Toll_Plaza_Name": " Salasar"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Gurgaon - Kotputli - Jaipur",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 115.000 ",
+      "Toll_Plaza_Name": " Shahjahanpur"
+    },
+    {
+      "NH_No": "58 (Old 65)",
+      "Section": "Rajasthan Border Fatehpur Salasar section",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "144.500 ",
+      "Toll_Plaza_Name": " Shobhasar"
+    },
+    {
+      "NH_No": "11",
+      "Section": "Mahua - Jaipur (Km 120.000 to Km 228.000)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 156.600 ",
+      "Toll_Plaza_Name": " Sikandra"
+    },
+    {
+      "NH_No": "27",
+      "Section": "Kota - Baran Section",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 409.680 ",
+      "Toll_Plaza_Name": " Simliya"
+    },
+    {
+      "NH_No": "62",
+      "Section": "Suratgarh Sriganganagar",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "229.100 ",
+      "Toll_Plaza_Name": " SixML"
+    },
+    {
+      "NH_No": "52",
+      "Section": "Jaipur- Deoli (new)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 105.000 ",
+      "Toll_Plaza_Name": " Sonwa (Sonva)"
+    },
+    {
+      "NH_No": "458",
+      "Section": "Nimbijodha  Degna  Merta City (0.000  139.900)",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "93.500 ",
+      "Toll_Plaza_Name": " Tamdoli"
+    },
+    {
+      "NH_No": "52",
+      "Section": "Jaipur-Reengus",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 257.00 ",
+      "Toll_Plaza_Name": " Tatiyawas"
+    },
+    {
+      "NH_No": "8",
+      "Section": "Jaipur - Kishangarh",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 286.700 ",
+      "Toll_Plaza_Name": " Thikariya (Jaipur)"
+    },
+    {
+      "NH_No": "14",
+      "Section": "Beawar-Pali-Pindwara",
+      "State": "Rajasthan",
+      "Toll_Plaza_Location": "Km 202.315 ",
+      "Toll_Plaza_Name": " Uthamam"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Tambaram - Tindivanam (Km 74.500 - Km 121.000)",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 103.500 ",
+      "Toll_Plaza_Name": " Athur (Tindivanam)"
+    },
+    {
+      "NH_No": "NH  87 (Old NH49)",
+      "Section": "Madurai  Ramanathapuram",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "98.129 ",
+      "Toll_Plaza_Name": " Bogalur"
+    },
+    {
+      "NH_No": "NH 45 B",
+      "Section": "Trichi Bypass - Tovarankurichi - Madurai",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 21.020 ",
+      "Toll_Plaza_Name": " Boothakudi"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Walajapet - Poomalle",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 104.900 ",
+      "Toll_Plaza_Name": " Chennasamudram"
+    },
+    {
+      "NH_No": "45 B",
+      "Section": "Trichi Bypass - Tovarankurichi - Madurai",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 113.630 ",
+      "Toll_Plaza_Name": " Chittampatti"
+    },
+    {
+      "NH_No": "45B",
+      "Section": "Madurai Toturian",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 143.580 ",
+      "Toll_Plaza_Name": " Eliyarpathi"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Madurai - Tirunelveli - Panagudi - kanayakumari",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 74.930 ",
+      "Toll_Plaza_Name": " Etturvattam"
+    },
+    {
+      "NH_No": "544",
+      "Section": "Chengapalli - Coimbatore Byepass(Km 102.035 to 144.680)",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 136.840 ",
+      "Toll_Plaza_Name": " Kaniyur"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Madurai - Tirunelveli - Panagudi - kanayakumari",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 18.652 ",
+      "Toll_Plaza_Name": " Kappalur"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Dindigul bypass - Samyanallore",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 398.500 ",
+      "Toll_Plaza_Name": " Kodai Road"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Hosur - Krishnagiri",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 87.500 ",
+      "Toll_Plaza_Name": " Krishnagiri"
+    },
+    {
+      "NH_No": "210",
+      "Section": "Trichy - Karaikudi (Km 54.800 - Km 91.054)",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 57.317 ",
+      "Toll_Plaza_Name": " Lambalakudi"
+    },
+    {
+      "NH_No": "210",
+      "Section": "Trichy - Karaikudi (km 10.000 - Km 54.8000)",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 19.000 ",
+      "Toll_Plaza_Name": " Lechchumanapatti"
+    },
+    {
+      "NH_No": "67",
+      "Section": "Trichy - Karur",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 198.500 ",
+      "Toll_Plaza_Name": " Manavasi"
+    },
+    {
+      "NH_No": "State Highways ( SH01 SH01A SH56 SH02)",
+      "Section": "Road Connectivity to Chennai to Ennore Ports   Widening  Strengthening  Improvements to Thiruvottiyur Ponneri  Panchetti Road  Inner Ring Road Manali Oil refinery Road  Ennore Expressway",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 22.200 ",
+      "Toll_Plaza_Name": " Mathur"
+    },
+    {
+      "NH_No": "79",
+      "Section": "Salem - Ulundurpet",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 21.750 ",
+      "Toll_Plaza_Name": " Mettupatti"
+    },
+    {
+      "NH_No": "66",
+      "Section": "Pondicherry - Tindivanam",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 6.572 ",
+      "Toll_Plaza_Name": " Morattandi"
+    },
+    {
+      "NH_No": "5",
+      "Section": "Chennai - Tada",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 21.625 ",
+      "Toll_Plaza_Name": " Nallur"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Moondradaippu - Anjugramam",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 185.387 ",
+      "Toll_Plaza_Name": " Nanguneri"
+    },
+    {
+      "NH_No": "79",
+      "Section": "Salem - Ulundrupet",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 73.760 ",
+      "Toll_Plaza_Name": " Nathakkarai"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Walajapet - Poomalle",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 37.800 ",
+      "Toll_Plaza_Name": " Nemili (Sriperumbudur)"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Omallur - Namakkal",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 191.800 ",
+      "Toll_Plaza_Name": " Omallur"
+    },
+    {
+      "NH_No": "226",
+      "Section": "Thanjavur to Pudukkottai",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 16.095 ",
+      "Toll_Plaza_Name": " Palaya Gandharvakottai"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Krishnagiri - Thumbipadi",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 154.440 ",
+      "Toll_Plaza_Name": " Palayam (Dharmapuri)"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Krishnagiri - Walajahpet",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 98.520 ",
+      "Toll_Plaza_Name": " Pallikonda"
+    },
+    {
+      "NH_No": "49(Old 87)",
+      "Section": "Mandapam - Rameswaram.",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Annai Indira Gandhi Bridge (Pamban Bridge ",
+      "Toll_Plaza_Name": " Pamban Bridge (MoRTH)"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Tambaram - Tindivanam (Km 28.000 - Km 74.500)",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 52.820 ",
+      "Toll_Plaza_Name": " Paranur (Chengalpet)"
+    },
+    {
+      "NH_No": "205",
+      "Section": "Tirupati-Tiruthani-Chennai",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 31.800 ",
+      "Toll_Plaza_Name": " Pattaraiperumbudur (temporary TP)"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Trichy - Dindigul",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 382.850 ",
+      "Toll_Plaza_Name": " Ponnambalapatti"
+    },
+    {
+      "NH_No": "138 (Old 7A )",
+      "Section": "Tirunelveli - Tuticorin (Km 0.000  - Km 47.250)",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 17.000 ",
+      "Toll_Plaza_Name": " Pudukottai (Vagaikulam)"
+    },
+    {
+      "NH_No": "45B",
+      "Section": "Madurai Tuticorin",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 254.940 ",
+      "Toll_Plaza_Name": " Pudurpandiyapuram"
+    },
+    {
+      "NH_No": "205",
+      "Section": "Tirupati-Tiruthani-Chennai",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 305.800 ",
+      "Toll_Plaza_Name": " S V Puram"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Madurai - Tirunelveli - Panagudi - Kanyakumari",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 125.350 ",
+      "Toll_Plaza_Name": " Salaipudhur"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Padalur - Trichy",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 307.241 ",
+      "Toll_Plaza_Name": " Samayapuram"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Ulundurpet - Padalur",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 192.750 ",
+      "Toll_Plaza_Name": " Sengurichi"
+    },
+    {
+      "NH_No": "226",
+      "Section": "Thirumayam to Manamadurai",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "92.957 ",
+      "Toll_Plaza_Name": " Shenbagampettai"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Chennai Bypass",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 28.600 ",
+      "Toll_Plaza_Name": " Surapattu (Chennai Bypass II)"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Ulundurpet - Padalur",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 244.000 ",
+      "Toll_Plaza_Name": " Thirumandurai"
+    },
+    {
+      "NH_No": "NH  87 (Old NH49)",
+      "Section": "Madurai  Ramanathapuram",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km. 30.188 ",
+      "Toll_Plaza_Name": " Thiruppachethi"
+    },
+    {
+      "NH_No": "81",
+      "Section": "Trichy - Karur",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 157.500 ",
+      "Toll_Plaza_Name": " Thirupparaithurai"
+    },
+    {
+      "NH_No": "544",
+      "Section": "Salem  Kumarapalayam",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 27.697 ",
+      "Toll_Plaza_Name": " Vaiguntham"
+    },
+    {
+      "NH_No": "67",
+      "Section": "Thanjavur - Trichy",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 120.900 ",
+      "Toll_Plaza_Name": " Valavanthankottai"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Chennai Bypass",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 16.500 ",
+      "Toll_Plaza_Name": " Vanagaram (Chennai Bypass)"
+    },
+    {
+      "NH_No": "48",
+      "Section": "Krishnagiri - Walajahpet",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 46.800 ",
+      "Toll_Plaza_Name": " Vaniyambadi"
+    },
+    {
+      "NH_No": "79",
+      "Section": "Salem - Ulundrupet",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 105.000 ",
+      "Toll_Plaza_Name": " Veeracholapuram (West)"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Karur Bypass - Dindigul bypass",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 338.000 ",
+      "Toll_Plaza_Name": " Velanchettiyur"
+    },
+    {
+      "NH_No": "544",
+      "Section": "Kumarapalayam - Chengalpalli",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 88.287 ",
+      "Toll_Plaza_Name": " Vijaymangalmam"
+    },
+    {
+      "NH_No": "45",
+      "Section": "Tindivanam - Ulundurpet",
+      "State": "Tamil Nadu",
+      "Toll_Plaza_Location": "Km 150.400 ",
+      "Toll_Plaza_Name": " Vikravandi(Villupuram)"
+    },
+    {
+      "NH_No": "7",
+      "Section": "Adloor Yellaready - Chegunta (Km 368.255 to Km 419.793)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 392.600 ",
+      "Toll_Plaza_Name": " Bhiknoor"
+    },
+    {
+      "NH_No": "65",
+      "Section": "Hyderabad - Vijayawada",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 205.025 ",
+      "Toll_Plaza_Name": " Chillakallu"
+    },
+    {
+      "NH_No": "365",
+      "Section": "Tannamcherla - Jamandlapally (km 72.600 - km 121.000)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "99.750 ",
+      "Toll_Plaza_Name": " Chinthapally"
+    },
+    {
+      "NH_No": "NH61 (Old No. 222)",
+      "Section": "Rehabilitation and Up gradation of NH222 (New NH61) from Km.615000 to Km.668600 (Kalyan to Nirmal section) to two lane with paved shoulder in the State of Telangana under NHDPIV through Engineer",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "654.000 ",
+      "Toll_Plaza_Name": " Dilawarpur"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Kadhal - Armur (Km 278.00 to Km 308.00)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 281.320 ",
+      "Toll_Plaza_Name": " Gamjal"
+    },
+    {
+      "NH_No": "163",
+      "Section": "Hyderabad Yadgiri Section",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 38.100 ",
+      "Toll_Plaza_Name": " Gudur (Hyd-Yadgiri)"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Nagpur - Hyderabad (Km 308.000 to Km 367.000)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 342.700 ",
+      "Toll_Plaza_Name": " Indalwai"
+    },
+    {
+      "NH_No": "765",
+      "Section": "Hyderabad - Dindi (km 23.000 - km 78.000)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "45.710 ",
+      "Toll_Plaza_Name": " Kadthal"
+    },
+    {
+      "NH_No": "765",
+      "Section": "Hyderabad - Dindi (km 23.000 - km 78.000)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "101.450 ",
+      "Toll_Plaza_Name": " Konetipuram"
+    },
+    {
+      "NH_No": "65",
+      "Section": "Hyderabad - Vijayawada",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 118.250 ",
+      "Toll_Plaza_Name": " Korlaphadu"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Chegunta - Bewenpally (Km 419.793 to Km 481.331)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 443.713 ",
+      "Toll_Plaza_Name": " Manoharabad"
+    },
+    {
+      "NH_No": "NH365",
+      "Section": "Mangalwarpet to Mallampally",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Muthojipet ",
+      "Toll_Plaza_Name": " Muthojipet"
+    },
+    {
+      "NH_No": "65",
+      "Section": "Hyderabad - Vijayawada",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 60.650 ",
+      "Toll_Plaza_Name": " Panthangi"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Maharashtra/AP Border - Islam Nagar( Km 175.000 to Km 230.000)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 180.330 ",
+      "Toll_Plaza_Name": " Pippalwada"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Kothakota bypass - Kurnool (Km 135.469 to Km 211.00)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 200.95 ",
+      "Toll_Plaza_Name": " Pullur"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Thondapali - Jedcherla(Km 22.300 to Km 80.306)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 54.290 ",
+      "Toll_Plaza_Name": " Raikal"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Islam Nagar - Katdal (Km 230.00 to 278.00)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 245.400 ",
+      "Toll_Plaza_Name": " Rolmamda"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Jatcherla - Kotakatta (Km 80.050 to Km 135.740)",
+      "State": "Telangana",
+      "Toll_Plaza_Location": "Km 114.850 ",
+      "Toll_Plaza_Name": " Shakhapur"
+    },
+    {
+      "NH_No": "28C",
+      "Section": "Km 42.546  to Km 93.037(Jarwal  to Bahraich ByPass)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 63.450 ",
+      "Toll_Plaza_Name": " Aaini"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Kanpur - Ayodhaya",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 53.000 ",
+      "Toll_Plaza_Name": " Ahmadpur"
+    },
+    {
+      "NH_No": "NH232",
+      "Section": "133.285 Km.",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "At km. 172.890 ",
+      "Toll_Plaza_Name": " Aihar"
+    },
+    {
+      "NH_No": "NH232 2nd",
+      "Section": "155.900",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km. 113.255 ",
+      "Toll_Plaza_Name": " Aindhi"
+    },
+    {
+      "NH_No": "25",
+      "Section": "Poonch - Orai (Km 155.00 to Km 220.00)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 187.500 ",
+      "Toll_Plaza_Name": " Ait"
+    },
+    {
+      "NH_No": "NH233",
+      "Section": "Rehabilitation and Upgradation of Rudhauli to Basti side Approach of Ghaghra Bridge Section  (Km. 65.870 to Km. 122.270) of NH233 on EPC Basis under NHDP PhaseIV",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km. 108.025 ",
+      "Toll_Plaza_Name": " Aksada"
+    },
+    {
+      "NH_No": "86",
+      "Section": "Kanpur - kabrai",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 43.500 ",
+      "Toll_Plaza_Name": " Aliyapur"
+    },
+    {
+      "NH_No": "28 (Old NH233)",
+      "Section": "Ghaghra Bridge to Varanasi section of NH233 PkgI from km. 121.800 to 180.420",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "164.750 ",
+      "Toll_Plaza_Name": " Amdi"
+    },
+    {
+      "NH_No": "19",
+      "Section": "Etawah  Chakeri (Kanpur)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 353.000 ",
+      "Toll_Plaza_Name": " Anantram"
+    },
+    {
+      "NH_No": "New NH  731 Old NH  56",
+      "Section": "127.425 KM.",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "127.370 ",
+      "Toll_Plaza_Name": " Asroga"
+    },
+    {
+      "NH_No": "25 and 26",
+      "Section": "Jhansi - Lalitpur (Km 0.000 to km 49.700)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "km 32.100 ",
+      "Toll_Plaza_Name": " Babina"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Chakeri - Usrania (Km 483.687 to Km 564.897)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 527.275 ",
+      "Toll_Plaza_Name": " Badauri"
+    },
+    {
+      "NH_No": "New NH  731 Old NH  56",
+      "Section": "127.425 KM.",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "51.160 km ",
+      "Toll_Plaza_Name": " Bara"
+    },
+    {
+      "NH_No": "19",
+      "Section": "Etawah - Chakeri",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 438.000 ",
+      "Toll_Plaza_Name": " Barajore (Bara)"
+    },
+    {
+      "NH_No": "93",
+      "Section": "Agra Aligarh (Km 0.000 to Km 81.400)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 14.950 ",
+      "Toll_Plaza_Name": " Baros"
+    },
+    {
+      "NH_No": "NH  93 (new NH  509)",
+      "Section": "Aligarh  Moradabad Section",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km. 136.965 (existing ch. 136.500) ",
+      "Toll_Plaza_Name": " Belon"
+    },
+    {
+      "NH_No": "24",
+      "Section": "Hapur  Moradabad",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 80.500 ",
+      "Toll_Plaza_Name": " Brijghat"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Km 0.00 (211.700 on NH-2) - to km 5.410(New Aligment of NH-27)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 1.600 ",
+      "Toll_Plaza_Name": " Cable Stayed Naini Bridge"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Ayodhya - Gorakhpur",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 163.000 ",
+      "Toll_Plaza_Name": " Chaukadi"
+    },
+    {
+      "NH_No": "NH09 (Old NH24)",
+      "Section": "From Km. 0.000 to Km. 50.934 DelhiHapur Section (Part of DelhiMeerut Expressway Project)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km. 39.730 of NH09 near Chhajarsi Village ",
+      "Toll_Plaza_Name": " Chhajarsi"
+    },
+    {
+      "NH_No": "NH 24",
+      "Section": "Rehabilitation and Up gradation of Sonauli to Gorakhpur Section (Km.0000 to 80.000) of NH 29E (New NH24) in Uttar Pradesh to two lane with paved shoulder on EPC mode under NHDP PhaseIV",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km. 11.070 ",
+      "Toll_Plaza_Name": " Chhapwa"
+    },
+    {
+      "NH_No": "24B (Old  30 )",
+      "Section": "Luckanow - Raebarilly (Km 12.700 to Km 82.700 )",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 42.550 ",
+      "Toll_Plaza_Name": " Dakhina Sekhpur"
+    },
+    {
+      "NH_No": "9",
+      "Section": "Ghaziabad - Hapur & Hapur Bypass ( Km 27.643 to Km 48.638 & ByPass of Km 11.250)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 29.300 ",
+      "Toll_Plaza_Name": " Dasna"
+    },
+    {
+      "NH_No": "28C",
+      "Section": "Km 99.00  to Km 152.847(Bahraich ByPass to Rupadih)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 125.200 ",
+      "Toll_Plaza_Name": " Gulalpurva"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Shikohabad - Etawah (Km 250.000 to Km 321.100)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 285.000 ",
+      "Toll_Plaza_Name": " Gurau (Semra Atikabad)"
+    },
+    {
+      "NH_No": "730",
+      "Section": "Widening and Strengthening from Km. 454000 to Km. 470900  Km. 474000 to Km. 484000 of NH730 in the State of Uttar PradeshTwo lane with paved shoulder on EPC mode.",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "466.300 ",
+      "Toll_Plaza_Name": " Hadawa"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Allahabad Bypass (Km 158.000 - Km 0242.708)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 239.950 ",
+      "Toll_Plaza_Name": " Handia"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Lucknow  Sitapur (413.200  488.270)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 467.00 ",
+      "Toll_Plaza_Name": " Itunja (Barabhari)"
+    },
+    {
+      "NH_No": "NH232",
+      "Section": "133.285 Km",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "At km. 229.006 ",
+      "Toll_Plaza_Name": " Jindpur"
+    },
+    {
+      "NH_No": "24",
+      "Section": "Garhmukteshwar - Moradabad (Km 93.00 to Km 149.250)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 121.975 ",
+      "Toll_Plaza_Name": " Joya"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Rampur - Thariwan - Khokharaj (km 94.145 to km 158)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 120.500 ",
+      "Toll_Plaza_Name": " Katoghan"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Lucknow  Sitapur (413.200  488.270)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 420.00 ",
+      "Toll_Plaza_Name": " Khairabad (Karondi)"
+    },
+    {
+      "NH_No": "86",
+      "Section": "Kanpur-kabrai",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "km 105.500 ",
+      "Toll_Plaza_Name": " Khanna"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Allahabad Bypass (Km 158.000 - Km 0242.708)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 161.850 ",
+      "Toll_Plaza_Name": " Khokhraj"
+    },
+    {
+      "NH_No": "231",
+      "Section": "Raibarelly- Jaunpur (Km 86.00 to Km 166.400)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 132.400 ",
+      "Toll_Plaza_Name": " Kunwarpur"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Allahabad - Handia - Varanasi (Km 245.00 to Km 317.389",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 279.120 ",
+      "Toll_Plaza_Name": " Lalanagar"
+    },
+    {
+      "NH_No": "60",
+      "Section": "Baleshwar - Kharagpur",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 52.000 ",
+      "Toll_Plaza_Name": " Laxmannath"
+    },
+    {
+      "NH_No": "91",
+      "Section": "Ghaziabad-Aligarh section ch. 23.600 to 149.900",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 47.500 ",
+      "Toll_Plaza_Name": " Luharali"
+    },
+    {
+      "NH_No": "93",
+      "Section": "Agra Aligarh Section",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 71.820 ",
+      "Toll_Plaza_Name": " Madrak"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Delhi - Agra",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 164.000 ",
+      "Toll_Plaza_Name": " Mahuvan"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Ayodhaya - Gorakhpur",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 198.000 ",
+      "Toll_Plaza_Name": " Mandawnagar"
+    },
+    {
+      "NH_No": "NH  93 (new NH  509)",
+      "Section": "Aligarh  Moradabad Section",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km. 207.900 (existing ch. 208.426) ",
+      "Toll_Plaza_Name": " Mohammad Ibrahimpur"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Gorakhpur - Kasiya",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 313.372 ",
+      "Toll_Plaza_Name": " Muziana Hetim"
+    },
+    {
+      "NH_No": "NH24",
+      "Section": "Rehabilitation and Up gradation of Sonauli to Gorakhpur Section (Km.0000 to 80.000) of NH 29E (New NH24) in Uttar Pradesh to two lane with paved shoulder on EPC mode under NHDP PhaseIV",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km. 75.915 ",
+      "Toll_Plaza_Name": " Nainsar"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Allahabad Bypass (Km 158.000 - Km 0242.708)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 185.544 ",
+      "Toll_Plaza_Name": " Nawabganj"
+    },
+    {
+      "NH_No": "25",
+      "Section": "Kanpur Ayodhya",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 39.000 ",
+      "Toll_Plaza_Name": " Nawabganj"
+    },
+    {
+      "NH_No": "NH2 (New NH19)",
+      "Section": "Kokhraj Handia Section (Allahabad Bypass)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 161.850 Km 185.544 Km 196.605 Km 216.815 Km 239.950 ",
+      "Toll_Plaza_Name": " Nawabganj (Adampur)only entry  exit lane plaza at Allahabad Bypass"
+    },
+    {
+      "NH_No": "24",
+      "Section": "Moradabad - Bareilly Road Section (Km 148 To Km 262)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 172.698 ",
+      "Toll_Plaza_Name": " Niyamatpur Ekrotiya"
+    },
+    {
+      "NH_No": "231",
+      "Section": "Raibarelly- Jaunpur (Km 0.000 to Km 86.000)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 40.000 ",
+      "Toll_Plaza_Name": " Nuruddinpur"
+    },
+    {
+      "NH_No": "NH232 1st",
+      "Section": "155.900",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 51.150 ",
+      "Toll_Plaza_Name": " Pidhi"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Badarpur Elevated Highways (Km 18.70 And Km 20.200)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 18.70 ",
+      "Toll_Plaza_Name": " Plaza 1"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Badarpur Elevated Highways (Km 18.70 And Km 20.200)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 20.200 ",
+      "Toll_Plaza_Name": " Plaza 2"
+    },
+    {
+      "NH_No": "2 and 3",
+      "Section": "Agra Bypass (Km 0.000 - Km 32.800 )",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 10.800 ",
+      "Toll_Plaza_Name": " Raibha"
+    },
+    {
+      "NH_No": "60",
+      "Section": "Baleshwar - Kharagpur",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 103.500 ",
+      "Toll_Plaza_Name": " Rampura"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Kanpur - Ayodhaya",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 107.000 ",
+      "Toll_Plaza_Name": " Ronahi"
+    },
+    {
+      "NH_No": "NH730A",
+      "Section": "61.500",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Sabli Powayan Shahjahanpur ",
+      "Toll_Plaza_Name": " Sabli"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Allahabad Bypass (Km 158.000 - Km 0242.708)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 216.815 ",
+      "Toll_Plaza_Name": " Sahson"
+    },
+    {
+      "NH_No": "28",
+      "Section": "UP/ Bihar Border - Kasia",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 361.902 ",
+      "Toll_Plaza_Name": " Salemgarh"
+    },
+    {
+      "NH_No": "NH27",
+      "Section": "JhansiOrai section of NH25 (New NH27) from Km. 90.300 to Km. 225.713 (length 135.413 km)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "km 140.400 on NH27 (Old NH25) ",
+      "Toll_Plaza_Name": " Semri"
+    },
+    {
+      "NH_No": "58",
+      "Section": "Meerut - Muzaffarnagar",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 75.990 ",
+      "Toll_Plaza_Name": " Siwaya"
+    },
+    {
+      "NH_No": "91",
+      "Section": "Ghaziabad-Aligarh section ch. 23.600 to 149.900",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 113.30 ",
+      "Toll_Plaza_Name": " Somna"
+    },
+    {
+      "NH_No": "30",
+      "Section": "Allahabad Bypass (Km 158.000 - Km 0242.708)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 196.605 ",
+      "Toll_Plaza_Name": " Soraon"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Delhi - Agra",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 74.00 ",
+      "Toll_Plaza_Name": " Srinagar"
+    },
+    {
+      "NH_No": "28",
+      "Section": "Gorakhpur Bypass",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 256.500 ",
+      "Toll_Plaza_Name": " Tendua (Gorakhpur Bypass)"
+    },
+    {
+      "NH_No": "24",
+      "Section": "Moradabad - Bareilly Road Section (Km 148 To Km 262)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "km 228.885 ",
+      "Toll_Plaza_Name": " Thriyakhetal"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Tundla - Makhanpur (Km 199.660 to Km 250.533)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 224.950 ",
+      "Toll_Plaza_Name": " Tundla"
+    },
+    {
+      "NH_No": "25",
+      "Section": "Orai   Barah",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 229.913 ",
+      "Toll_Plaza_Name": " Usaka ( Chamari)"
+    },
+    {
+      "NH_No": "26",
+      "Section": "Jhansi - Lalitpur (Km 49.700 to Km 99.005)",
+      "State": "Uttar Pradesh",
+      "Toll_Plaza_Location": "Km 85.280 ",
+      "Toll_Plaza_Name": " Vighakhet"
+    },
+    {
+      "NH_No": "NH 125",
+      "Section": "52.200",
+      "State": "Uttarakhand",
+      "Toll_Plaza_Location": "Khatima ",
+      "Toll_Plaza_Name": " Banushi"
+    },
+    {
+      "NH_No": "NH 74",
+      "Section": "Kashipur Sitarganj Section",
+      "State": "Uttarakhand",
+      "Toll_Plaza_Location": "Km 222.270 ",
+      "Toll_Plaza_Name": " Deoria"
+    },
+    {
+      "NH_No": "74 (Old 734)",
+      "Section": "Bridge of Rawason river in Km. 19",
+      "State": "Uttarakhand",
+      "Toll_Plaza_Location": "Km 20 ",
+      "Toll_Plaza_Name": " Rawason Bridge (MoRTH)"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Barwa Adda to Panagarh including Panagarh Bypass Km.398.240  Km.521.121",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km.507.085 ",
+      "Toll_Plaza_Name": " Banskopa"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Barwa Adda - Panagarh",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 438.500 ",
+      "Toll_Plaza_Name": " Beliyad"
+    },
+    {
+      "NH_No": "34",
+      "Section": "Farakka - Raiganj (km 295.000 - km 398.000)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 351.440 ",
+      "Toll_Plaza_Name": " Chakseherdi (Gajol) Bagsarai"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Palsit - Dhankuni (Km 587.853 - Km 651.602)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 646.005 ",
+      "Toll_Plaza_Name": " Dankuni"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Dhankuni - Kharagpur",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 112.245 ",
+      "Toll_Plaza_Name": " Debra"
+    },
+    {
+      "NH_No": "34",
+      "Section": "Baharampore - Farakka (Km 191.416 to Km 294.684)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 206.562 ",
+      "Toll_Plaza_Name": " Gopgram (Shibpur)"
+    },
+    {
+      "NH_No": "31C",
+      "Section": "Salsalabari - Assam Bengal Border (Km 228.000 - Km 254.500)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 243.00 ",
+      "Toll_Plaza_Name": " Guabari"
+    },
+    {
+      "NH_No": "6",
+      "Section": "Dhankuni - kharagpur",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 35.250 ",
+      "Toll_Plaza_Name": " Jaladhulagori (Dhulagarh)"
+    },
+    {
+      "NH_No": "34",
+      "Section": "Baharampore - Farakka (Km 191.416 to Km 294.684)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 260.850 ",
+      "Toll_Plaza_Name": " Kishorpur (Chandermore)"
+    },
+    {
+      "NH_No": "34",
+      "Section": "Farakka - Raiganj (km 295.000 - km 398.000)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 297.867 ",
+      "Toll_Plaza_Name": " Lakshmipur"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Second Vivekananda Bridge &  Approach",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 654.059 ",
+      "Toll_Plaza_Name": " Nivedita Setu"
+    },
+    {
+      "NH_No": "2",
+      "Section": "Panagarh - Palsit  (Km 520.103 - Km 587.853)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 585.692 ",
+      "Toll_Plaza_Name": " Palsit"
+    },
+    {
+      "NH_No": "31",
+      "Section": "Sonapur - Ghoshpukur (Km 551.000 - Km 507.000)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 547.350 ",
+      "Toll_Plaza_Name": " Paschim Madati"
+    },
+    {
+      "NH_No": "44",
+      "Section": "Nammakal - Karur",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 259.500 ",
+      "Toll_Plaza_Name": " Rasampalayan"
+    },
+    {
+      "NH_No": "NH34 (Old) NH12 (New)",
+      "Section": "KrishnagarBaharampore section of NH34 from Km 115.342 to Km 191.700 (76.358 Km)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "141.140 ",
+      "Toll_Plaza_Name": " Sali Bamandanga"
+    },
+    {
+      "NH_No": "41",
+      "Section": "Kolaghat - Haldia (Km 0.500 - Km 52.700)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 11.600 ",
+      "Toll_Plaza_Name": " Sonapetya"
+    },
+    {
+      "NH_No": "31",
+      "Section": "Dalkhola - Islampur (Km 447.00 - Km 498.970)",
+      "State": "West Bengal",
+      "Toll_Plaza_Location": "Km 451.00 ",
+      "Toll_Plaza_Name": " Surjapur"
+    }
+  ]
